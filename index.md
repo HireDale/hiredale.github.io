@@ -1,8 +1,8 @@
+# Work Portfolio
 If you’re seeing this, GitHub Pages is working!
 
-Under construction, please stand by.
+The work portfolio is under construction, please stand by.
 
-## Explore More
+## Features:
 
-Check out my modular recovery journal and prescription simulation at  
-👉 [Daley Dose](https://hiredale.github.io/daleydose/)
+Check out my sample Help Files for a prescription-based application: [**Daley Dose**](https://hiredale.github.io/daleydose/)
