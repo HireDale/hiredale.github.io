@@ -1,2 +1,5 @@
+title: "HIREDALE.COM"
+description: "A TECHNICAL WRITING PORTFOLIO"
 theme: jekyll-theme-cayman
-title: HireDale.com
+plugins:
+  - jekyll-include-cache
