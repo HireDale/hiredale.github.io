@@ -1,7 +1,7 @@
 ---
-title: default
+title: ""
 theme: default
-description: default
+description: ""
 ---
 
 # WORK PORTFOLIO
