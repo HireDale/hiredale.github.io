@@ -10,7 +10,7 @@ If you’re seeing this, GitHub Pages is working!
 The work portfolio is under construction, please stand by.
 
 ## WHY I WRITE
-___
+---
 
 The need to understand is universal.
 
