@@ -9,7 +9,8 @@ If you’re seeing this, GitHub Pages is working!
 
 The work portfolio is under construction, please stand by.
 
-# WHY I WRITE
+## WHY I WRITE
+---
 
 The need to understand is universal.
 
@@ -17,7 +18,8 @@ Without direct human assistance, Help Files and other Support Documents become t
 
 I have profound respect and appreciation for the role technical documents play in providing essential assistance to their readers. They encourage users to develop better self-reliance for troubleshooting and enhance independent learning for product use. I also genuinely enjoy the cyclical nature of creating, editing, and maintaining documentation with each product update.
 
-## FEATURED WORK
+## FEATURED WORKS AND SAMPLES
+---
 
 - [**Help Files and Online Support**](https://hiredale.github.io/daleydose/)
 - [**Release Notes**](https://hiredale.github.io/daleydose/release-notes-v1.4)
