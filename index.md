@@ -10,12 +10,12 @@ If you’re seeing this, GitHub Pages is working!
 
 The work portfolio is under construction, please stand by.
 
-## FEATURED WORKS AND SAMPLES
+## FEATURED
 ---
 
-- [**Product Overview**](https://hiredale.github.io/daleydose/)
-- [**Help Files and Online Support**](https://hiredale.github.io/daleydose/help-files)
-- [**Release Notes**](https://hiredale.github.io/daleydose/release-notes-v1.4)
+- [**Sample Product Overview**](https://hiredale.github.io/daleydose/)
+- [**Sample Product Help Files**](https://hiredale.github.io/daleydose/help-files)
+- [**Sample Product Release Notes**](https://hiredale.github.io/daleydose/release-notes-v1.4)
 - **Troubleshooting Guides**
 - **Ask Me Anything**
 - **Behind the Scenes**
