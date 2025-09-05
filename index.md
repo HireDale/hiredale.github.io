@@ -1,3 +1,9 @@
+---
+title: default
+theme: default
+description: default
+---
+
 # WORK PORTFOLIO
 If you’re seeing this, GitHub Pages is working!
 
