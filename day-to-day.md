@@ -40,3 +40,13 @@ My day-to-day tasks included:
   + Incorporate their insights to enhance team rapport and line of communication for future sprints and projects
 - Acting as a liaison between Development Team members to resolve conflicts in feedback. This is to ensure that the changes have been approved by both the QAs and the Developers. 
 - Attending meetings, presentations, and demos using MS Teams to discuss changes and progress in the user stories.
+
+## **SEE ALSO**
+---
+
+- [**Sample Product Overview**](https://hiredale.github.io/daleydose/)
+- [**Sample Product Help Files**](https://hiredale.github.io/daleydose/help-files)
+- [**Sample Product Release Notes**](https://hiredale.github.io/daleydose/release-notes-v1.4)
+- **Sample API Documentation**
+- **Troubleshooting Guides**
+- [**Why Hire Me**](/why-hire-me)
