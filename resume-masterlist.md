@@ -180,6 +180,7 @@ My day-to-day tasks include:
 - Creating and managing supplemental visuals, art, and instructional graphics using Adobe Photoshop and Adobe Illustrator.
 
 ### COLLABORATIVE TASKS
+
 From experience, technical writing is 50% writing and 50% collaboration. 
 
 During the course of a standard sprint cycle, my team-centric tasks include:
@@ -194,6 +195,7 @@ During the course of a standard sprint cycle, my team-centric tasks include:
 - Collaborating with fellow writers to critique technical documentation drafts in order to gain a fresh perspective.
 
 ### WHY HIRE ME?
+
 My main sales pitch highlights my passion and specialization in two areas: technical writing and graphic design.
 
 Technical writing is essential to effectively teach readers about a given topic. A good technical writer can provide clear, well-researched, and concise guides that can help both new and experienced users. 
@@ -206,6 +208,7 @@ Adding graphic design to the mix further enhances the learning material by offer
 - 10+ years of working with Adobe Photoshop
 
 ### A HISTORY OF REMOTE WORK
+
 In addition to over a decade of professional content creation, I have had the privilege of working remotely for international clients and companies throughout this period. 
 
 A decade of remote work has honed my skills in time management and workload prioritization. It has also strengthened my ability to work independently without constant supervision, while also still emphasizing the importance of continuous collaboration between team members. 
@@ -221,6 +224,26 @@ A decade of remote work has honed my skills in time management and workload prio
   + A laptop and a backup
   + A drawing tablet
 
+### WORK HISTORY
+
+Since 2012, I have had the privilege of working with international clients. During this time, I have performed duties as a technical writer, content writer, graphic designer, or a combination of these roles – tailored to the needs of each company and their target audience.
+
+This diversity in topics and target audiences has ingrained in me the habit of writing from the reader's perspective. I ensure that the content is easy enough for new users to understand, detailed enough to satisfy experienced users, and concise enough for those seeking a quick solution to their problems.
+
+Here I relist the work history, no need to repeat.
+
+### SKILLS AND INTERESTS
+
+- Believe it or not, I have been creating technical documentation (in some capacity) since I was in high school. 
+Growing up in a poor environment, I had to quickly learn the basics of PC repair to avoid expenses. I taught myself how to troubleshoot computer issues and to apply a fix when possible. This involved:
+	+ Identifying issues and diagnosing the problem
+	+ Doing the research to find a solution
+	+ Translating technical jargon into something more accessible
+	+ Applying what I learned and seeing if it resolved the issue
+	+ Documenting the steps taken for future reference
+- I watch an incredibly unhealthy amount of The Office, Brooklyn 99, and Star Trek: The Next Generation. 
+- I have a love-hate relationship with World of Warcraft.
+- In addition to 10+ years of graphic design, I also enjoy drawing digitally on Adobe Photoshop with my drawing tablet.
 
 # OCT 29, 2024
 ---
