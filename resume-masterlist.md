@@ -4,7 +4,8 @@ description: ""
 layout: default
 ---
 
-# Current Resume
+# CURRENT RESUME
+---
 ## WORK EXPERIENCE
 
 ### Senior Consultant
@@ -27,13 +28,13 @@ Change Healthcare / Optum | United States | Full-Time | Remote | March 2021 – 
 
 
 ### Technical Writer
-Drone Addicts | Canada | Freelance | Remote | 2018 – 2020
+Drone Addicts | Canada | Freelance | Remote | November 2018 – May 2020
 
 - Developed Guides, Review Articles, and Troubleshooting Resources for drones and other tech-related content.
 
 
 ### Digital Content Manager
-OH5 | Turkey | Full-Time | Remote | 2014 – 2018
+OH5 | Turkey | Full-Time | Remote | February 2014 – October 2018
 
 - In addition to my responsibilities as Digital Content Creator, I also managed digital assets for online platforms.
 - Coordinated publishing schedules and ensured consistency across both home and social media platforms.
@@ -41,7 +42,7 @@ OH5 | Turkey | Full-Time | Remote | 2014 – 2018
 
 
 ### Digital Content Creator
-OH5 | Turkey | Full-Time | Remote | 2012 – 2014
+OH5 | Turkey | Full-Time | Remote | April 2012 – February 2014
 
 - Produced graphic design content, illustrations, and written tech articles for digital platforms.
 - Created blog posts, visual guides, sponsored content, and tech-focused content tailored for online audiences.
@@ -74,14 +75,14 @@ Over time, documentation becomes a constant loop of research, writing, editing, 
 My day-to-day tasks included:
 
 - Creating customer-facing technical documents such as:
-•	User manuals and instructional guides for products using Adobe RoboHelp, Madcap Flare, and MS Word
+- User manuals and instructional guides for products using Adobe RoboHelp, Madcap Flare, and MS Word
   + Online help files and technical support documents using Atlassian Confluence, WordPress, and Ghost
   + Version update notes and archived release notes using Adobe FrameMaker, MS Word, and Adobe Acrobat
   +	Short, simplified, and targeted guides using MS Word
-- Proofreading and editing existing technical documents to match design and formatting styles based on the company’s established guidelines.
 - Updating the following based on changes made during the sprint:
   +	Existing technical guides and procedures to match the product’s latest updates and changes
   +	Existing screenshots and field/button definitions to match the product’s latest user interface changes
+- Proofreading and editing existing technical documents to match design and formatting styles based on the company’s established guidelines.    
 - Accessing the pre-release version of the application to directly view, research, play around, and document the changes.
 - Researching and simplifying technical terms to make instructions clear, detailed, and accessible for the target audience.
 - Adjusting the complexity in the technical instructions to match the target audience’s comprehension and familiarity level.
@@ -122,3 +123,6 @@ Over the years, I have collaborated remotely with global teams, companies, and i
 A decade of remote work has honed my skills in time management and workload prioritization. I have learned to prioritize user stories and tasks at the start of every sprint to allocate enough time for research and writing on major projects, while also ensuring that smaller changes still receive thorough documentation. 
 
 It has also strengthened my ability to work independently without constant supervision, while also still understanding the importance of continuous collaboration to ensure accurate and up-to-date documentation.
+
+# LEGACY RESUMES
+---
