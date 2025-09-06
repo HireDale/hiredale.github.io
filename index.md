@@ -11,7 +11,7 @@ The need to understand is universal.
 </p>
 
 <p style="text-align: justify;">
-Without direct human assistance, Help Files and other Support Documents become the next best resource for understanding a product's functions and features, as well as finding solutions to problems encountered. Therefore, it is crucial to keep a product's technical documentation comprehensive, up-to-date, and easy to follow for both new and experienced users alike.
+Without direct human assistance, <strong>Help Files</strong> and other <strong>Support Documents</strong> become the next best resource for understanding a product's functions and features, as well as finding solutions to problems encountered. Therefore, it is crucial to keep a product's technical documentation comprehensive, up-to-date, and easy to follow for both new and experienced users alike.
 </p>
 
 <p style="text-align: justify;">
