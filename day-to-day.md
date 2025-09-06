@@ -29,9 +29,16 @@ My day-to-day tasks included:
 
 ## **COLLABORATIVE TASKS**
 ---
-- From experience, technical writing is 50% documentation and 50% collaboration. 
-- Without constant communication and feedback from the Development Team, the current documentation is at risk of being out of date, inaccurate, or incomplete. And the last thing you need to hear after publication is a team member wanting last-minute changes to the already-published work. Therefore, it is necessary to keep the team informed during the entire technical writing process.
-- During the course of a standard sprint cycle, my team-centric tasks include:
+<p style="text-align: justify;">
+From experience, technical writing is 50% documentation and 50% collaboration. 
+</p>
+<p style="text-align: justify;">
+Without constant communication and feedback from the Development Team, the current documentation is at risk of being out of date, inaccurate, or incomplete. And the last thing you need to hear after publication is a team member wanting last-minute changes to the already-published work. Therefore, it is necessary to keep the team informed during the entire technical writing process.
+</p>
+<p style="text-align: justify;">
+During the course of a standard sprint cycle, my team-centric tasks include:
+</p>
+
 - Monitoring the product’s developments and roadblocks via user stories and attached files in Atlassian Jira and other online support files. This ensures accurate and up-to-date sources for documentation.
 - Collaborating with Designers, QAs, Developers, and Product Owners to gather information on documentation changes.
 - Providing drafts for review to associated team members using Adobe Acrobat, OneDrive, and SharePoint.
