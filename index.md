@@ -41,11 +41,11 @@ I have profound respect and appreciation for the role technical documents play i
   
   Stepwise diagnostic protocols for common issues. Includes symptom mapping, root cause isolation, and resolution paths for support handoff.
 
-- **Day to Day Responsibilities**
+- [**Day to Day Responsibilities**](/day-to-day)
   
   Snapshot of typical technical writing tasks in agile environments. Covers sprint planning, doc maintenance, and cross-functional collaboration.
 
-- [**Why Hire Me**](/why-hire-me.md)
+- [**Why Hire Me**](/why-hire-me)
   
   Credibility-focused pitch outlining writing strengths, technical adaptability, and modular thinking. Tailored for hiring managers and recruiters.
 
