@@ -124,5 +124,32 @@ A decade of remote work has honed my skills in time management and workload prio
 
 It has also strengthened my ability to work independently without constant supervision, while also still understanding the importance of continuous collaboration to ensure accurate and up-to-date documentation.
 
+## ADDITIONAL INFO
+
+**For RIA Advisory's Senior Consultant role:**
+
+They had existing lessons for these applications. In-house for their bootcampers/new employees. But the recordings were messy; the speaker couldn't speak fluent English and was audibly nervous. There were also tons of pauses due to the classroom setting.
+
+So I manually transcribed what the instructor was saying (the sharepoint auto-transcription was nearly useless), then fixed the grammar, ensured the lectures were correct, then rearranged the topics to have a better flow. The script I made for these topics would then be fed to an AI voice thing which would be the instructor for the next batch of bootcampers.
+
+**For RIA Advisory and Optum's stints:**
+
+For Oracle applications: Revenue Management and Billing (RMB), Customer Cloud Service application or CCS, and Customer to Meter or C2M. CCS and C2M are essentially the same, with CCS being cloud-based and C2M being local.
+
+For Optum's healthcare apps, I was in charge of documentation for the Central Services division of their applications. This includes Converge Rx (CRX, my main application), Storage Based Mail Order (SBMO), PDX-MS, Clinical Interview (which I created its help files from scratch), POM API (Patient Opportunity Management), this one had the API documentation that I technically did, but my head writer did most of the heavy lifting. EOPN (EPS Outgoing Patient Notification Record), ePharmacy.
+
+I also did other stuff for Optum (I included here the tech writing stuff as well):
+
+- Created new help file entries and updated existing ones for each application with Adobe RoboHelp
+- Published release notes for version updates at the end of every sprint with Adobe FrameMaker and MS Word
+- Created documentation and tutorial clips with Adobe Captivate: 
+  + Step-by-step guides on how to use basic application features
+  + In-app demos on how to complete common tasks
+- Collaborated with the design, QA, and development team members to create accurate and up-to-date documentation that covers each application’s most recent changes 
+- Graphic design and image creation with Photoshop and Illustrator: 
+  + Created visuals for reports and PowerPoint presentations 
+  + Edited and updated logos, images, and favicons
+
+
 # LEGACY RESUMES
 ---
