@@ -74,8 +74,3 @@ Produced graphic content, illustrations, and technical articles for digital plat
 ## Education  
 **Bachelor of Science in Nursing** — Saint Louis University, Apr 2012  
 Passed Nursing Board Exam, Jul 2012  
----
-
-## Education  
-**Bachelor of Science in Nursing** — Saint Louis University, Apr 2012  
-Passed Nursing Board Exam, Jul 2012  
