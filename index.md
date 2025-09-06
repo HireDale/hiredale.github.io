@@ -45,7 +45,7 @@ I have profound respect and appreciation for the role technical documents play i
   
   Snapshot of typical technical writing tasks in agile environments. Covers sprint planning, doc maintenance, and cross-functional collaboration.
 
-- **Why Hire Me?**
+- [**Why Hire Me**](/why-hire-me.md)
   
   Credibility-focused pitch outlining writing strengths, technical adaptability, and modular thinking. Tailored for hiring managers and recruiters.
 
