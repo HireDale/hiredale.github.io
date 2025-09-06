@@ -13,8 +13,6 @@ The work portfolio is under construction, please stand by.
 ## **FEATURED**
 ---
 
-- ## Featured Work
-
 - [**Sample Product Overview**](https://hiredale.github.io/daleydose/)
   
   High-level summary of a fictional SaaS product. Highlights core features, target users, and business value for quick stakeholder alignment.
