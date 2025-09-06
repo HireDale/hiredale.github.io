@@ -10,20 +10,18 @@ If you’re seeing this, GitHub Pages is working!
 
 The work portfolio is under construction, please stand by.
 
-## FEATURED
+## **FEATURED**
 ---
 
 - [**Sample Product Overview**](https://hiredale.github.io/daleydose/)
 - [**Sample Product Help Files**](https://hiredale.github.io/daleydose/help-files)
 - [**Sample Product Release Notes**](https://hiredale.github.io/daleydose/release-notes-v1.4)
+- **Sample API Documentation**
 - **Troubleshooting Guides**
-- **Ask Me Anything**
-- **Behind the Scenes**
-- **What If?**
-- **Hopes and Dreams**
-- **The Doomsday Vault**
+- **Day to Day Responsibilities**
+- **Why Hire Me?**
 
-## WHY I WRITE
+## **WHY I WRITE**
 ---
 <p style="text-align: justify;">
 The need to understand is universal.
@@ -36,3 +34,5 @@ Without direct human assistance, Help Files and other Support Documents become t
 <p style="text-align: justify;">
 I have profound respect and appreciation for the role technical documents play in providing essential assistance to their readers. They encourage users to develop better self-reliance for troubleshooting and enhance independent learning for product use. I also genuinely enjoy the cyclical nature of creating, editing, and maintaining documentation with each product update.
 </p>
+
+## **APPLICATIONS USED**
