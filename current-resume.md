@@ -33,7 +33,7 @@ Technical writer with 13+ years’ experience creating documentation for healthc
 
 ### **Senior Consultant**  
 **RIA Advisory** • Philippines • Contract • Hybrid • Feb 2025 – Sep 2025  
-- Designed and authored e‑learning scripts for **Oracle Revenue Management and Billing (RMB)** and **Oracle Customer Cloud Service / Customer to Meter (CCS/C2M)**, targeting junior QA engineers and developers fresh out of college in company bootcamps.  
+- Designed and authored e‑learning scripts for **Oracle Revenue Management and Billing (RMB)** and **Oracle Customer Cloud Service / Customer to Meter (CCS/C2M)**, enabling smooth transitions for non‑technical staff and new QA/Dev hires
 - Structured tutorials for first‑time learners of Oracle applications, using progressive complexity and plain‑language explanations to build foundational skills before introducing advanced workflows.  
 - Researched and navigated live Oracle environments to produce accurate, experience‑based scripts.  
 - Developed and maintained style, tone, and terminology guides to ensure consistency across training materials.  
