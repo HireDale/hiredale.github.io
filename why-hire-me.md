@@ -40,4 +40,4 @@ It has also strengthened my ability to work independently without constant super
 - [**Sample Product Release Notes**](https://hiredale.github.io/daleydose/release-notes-v1.4)
 - **Sample API Documentation**
 - **Troubleshooting Guides**
-- **Day to Day Responsibilities**
+- [**Day to Day Responsibilities**](/day-to-day)
