@@ -11,7 +11,7 @@ Metro Manila, Philippines • [Email] • [Phone] • [LinkedIn] • [Portfolio 
 ---
 
 ## Professional Summary  
-Technical communicator with 13+ years of experience producing API documentation, modular help systems, and e‑learning content for complex platforms in healthcare, fintech, and consumer tech. Proactively acquired and applied expertise in industry‑standard tools, style guides, and Agile workflows to deliver sprint‑ready documentation. Skilled at translating SME knowledge into clear, user‑focused content that reduces onboarding time, improves product adoption, and lowers support demand.  
+Technical communicator with 13+ years of experience producing API documentation, modular help systems, and e‑learning content for complex platforms in healthcare, fintech, and consumer tech. Experienced in industry‑standard tools, style guides, and Agile workflows, delivering sprint‑ready documentation that shortens onboarding time and improves product adoption. Known for translating complex SME knowledge into clear, user‑focused content that reduces support demand.
 
 ---
 
@@ -31,12 +31,13 @@ Technical communicator with 13+ years of experience producing API documentation,
 
 ### Senior Consultant  
 **RIA Advisory** • Philippines • Contract • Hybrid • Feb 2025 – Sep 2025  
-- Authored topic‑based e‑learning scripts for Oracle Revenue Management and Billing (RMB) and Oracle Customer Cloud Service / Customer to Meter (CCS/C2M).  
+- Authored topic‑based e‑learning scripts for Oracle Revenue Management and Billing (RMB) and Oracle Customer Cloud Service / Customer to Meter (CCS/C2M) — enterprise fintech platforms handling complex billing and customer lifecycle processes.  
 - Researched and used applications directly to produce accurate, experience‑based scripts.  
 - Developed and maintained style, tone, and terminology guides for training content.  
 - Created instructional guides for Oracle application training materials.  
 - Collaborated with SMEs to validate technical accuracy.  
 - Transcribed and restructured in‑house training recordings to improve clarity, grammar, and instructional flow; prepared scripts for AI‑narrated delivery to new hires.  
+- **Initiated and completed migration of personal technical writing portfolio from WordPress to GitHub Pages**, creating a custom site via repositories and Markdown pages. Learned and applied GitHub interface fundamentals, repository structuring, and Markdown formatting to publish and maintain a live documentation portfolio.  
 
 ### Technical Writer II  
 **Change Healthcare / Optum** • United States • Full‑Time • Remote • Mar 2021 – Apr 2024  
@@ -70,7 +71,7 @@ Technical communicator with 13+ years of experience producing API documentation,
 **Documentation Tools:** Adobe Acrobat, Adobe Captivate, Adobe FrameMaker, Adobe RoboHelp, MadCap Flare  
 **Design Tools:** Adobe Illustrator, Adobe Photoshop  
 **Collaboration Tools:** Atlassian Confluence, Atlassian Jira, MS Teams, SharePoint, OneDrive  
-**Web & Content:** WordPress, GitHub Pages, HTML/CSS basics  
+**Web & Content:** WordPress, GitHub Pages, HTML/CSS basics, Markdown  
 **Productivity:** MS Office Suite, Excel (tracking & reporting)  
 
 ---
