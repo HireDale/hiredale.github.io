@@ -24,7 +24,7 @@ RIA Advisory | Philippines | Contract | Hybrid | Feb 2025 – September 2025
 Change Healthcare / Optum | United States | Full-Time | Remote | March 2021 – April 2024
 
 - Developed Help Files, Release Notes, and Online Support for healthcare-related applications.
-- See Day-to-Day and Collaborative Tasks for more information.
+- See **Day-to-Day** and **Collaborative Tasks** for more information.
 
 
 ### Technical Writer
@@ -153,3 +153,135 @@ I also did other stuff for Optum (I included here the tech writing stuff as well
 
 # LEGACY RESUMES
 ---
+
+# DEC 31, 2024
+---
+## TECHNICAL WRITER + GRAPHIC DESIGNER
+
+The need to understand is universal. 
+
+When face-to-face learning is not available, the help manual becomes the next best resource. Because of this, it is crucial to keep a product's technical documentation comprehensive, up to date, and visually engaging.
+
+I have profound respect and appreciation for technical documents, and I genuinely enjoy the process of creating and maintaining them. 
+
+My day-to-day tasks include:
+- Creating technical documents such as:
+  +	User manuals and instructional guides for products using Adobe RoboHelp, Madcap Flare, and MS Word
+  +	Online help files and technical support documents using Atlassian Confluence, WordPress, and Ghost
+  +	Version update notes and archived release notes using Adobe FrameMaker, MS Word, and Adobe Acrobat
+- Managing technical documents to match design and formatting styles based on the company’s established guidelines.
+- Updating the following based on changes made during the sprint:
+  + Existing technical guides and procedures to match the product’s latest updates and changes
+  +	Existing screenshots and field/button definitions to match the product’s latest user interface changes
+  +	Existing assets to match the company’s branding changes
+- Accessing the pre-release version of the application to directly view, understand, and document the version’s changes.
+- Researching and simplifying technical terms and processes to make instructions clear, detailed, and accessible for the target audience – both for beginners and advanced users.
+- Creating and managing tutorial clips using Adobe Captivate.
+- Creating and managing supplemental visuals, art, and instructional graphics using Adobe Photoshop and Adobe Illustrator.
+
+### COLLABORATIVE TASKS
+From experience, technical writing is 50% writing and 50% collaboration. 
+
+During the course of a standard sprint cycle, my team-centric tasks include:
+
+- Monitoring the product’s active user stories in Atlassian Jira, ensuring accurate and up-to-date sources for documentation.
+- Consulting with designers, QAs, and developers through calls or emails to gather information on documentation changes.
+- Providing drafts of help file changes and release notes to associated team members using Adobe Acrobat, OneDrive, and SharePoint.
+- Gathering feedback with each user story’s assigned development team members on technical documentation drafts to:
+  +	Ensure clarity and accuracy of final documentation
+  +	Incorporate their insights to enhance team rapport and line of communication for future sprints and projects
+- Attending meetings, presentations, and demos with the dev team using MS Teams to discuss changes and progress in the user stories.
+- Collaborating with fellow writers to critique technical documentation drafts in order to gain a fresh perspective.
+
+### WHY HIRE ME?
+My main sales pitch highlights my passion and specialization in two areas: technical writing and graphic design.
+
+Technical writing is essential to effectively teach readers about a given topic. A good technical writer can provide clear, well-researched, and concise guides that can help both new and experienced users. 
+
+Adding graphic design to the mix further enhances the learning material by offering visual aid, summaries, and infographics. This combination of technical writing and graphic design ensures a comprehensive and engaging learning experience for all types of learners.
+
+- 10+ years of technical and content writing
+- 10+ years of digital graphic design and illustrations
+- 10+ years of working with content authoring and management platforms
+- 10+ years of working with Adobe Photoshop
+
+### A HISTORY OF REMOTE WORK
+In addition to over a decade of professional content creation, I have had the privilege of working remotely for international clients and companies throughout this period. 
+
+A decade of remote work has honed my skills in time management and workload prioritization. It has also strengthened my ability to work independently without constant supervision, while also still emphasizing the importance of continuous collaboration between team members. 
+
+- 10+ years of working with international teams
+  + Full-time clients in the United States and Europe
+  + Freelance clients from all over the globe
+- 10+ years of working on a graveyard shift schedule
+  + Increases availability with members overseas
+  + Maximizes collaboration time with teams
+- Remote setup includes:
+  + A PC and a backup
+  + A laptop and a backup
+  + A drawing tablet
+
+
+# OCT 29, 2024
+---
+## TECHNICAL WRITER
+2021 – 2024 | Change Healthcare/Optum (USA) 
+
+For the past three years, I worked exclusively as a technical writer for the US-based company Change Healthcare/Optum. Here, I was responsible for managing the technical documentation for their hospital and pharmacy-based applications.
+
+I worked exclusively on the graveyard shift to effectively collaborate with my US-based colleagues across the writing, design, QA, and development teams. With the use of Remote Desktop, I performed all my tasks on a permanent remote setup.
+
+### RESPONSIBILITIES:
+- Used Adobe RoboHelp to create new help file entries and update existing content, ensuring changes were reviewed, completed, and published at the end of each sprint cycle.
+
+- Used Adobe FrameMaker and MS Word to publish release notes for version updates at the end of every sprint.
+
+- Used Adobe Captivate to create tutorial clips of common tasks in an application, which were then embedded directly into the help files to enhance the learning process.
+
+- Used Adobe Photoshop and Illustrator for graphic design and image creation, including infographics and images embedded within help files, release notes, MS PowerPoint presentation slides, and other visual aids.
+
+- Used MS Teams, OneDrive, SharePoint, and Jira to efficiently collaborate with the writing, design, QA, and development team members throughout the entire Agile development process, ensuring accurate and up-to-date documentation during each release.
+
+- Used MS Excel to track the progress of the current sprint’s Jira user stories, their documentation needs, and completion status.
+
+- Researched and simplified technical terms and procedures to make instructions clear and accessible for the application's target audience.
+
+- Edited and reviewed existing content to match the current sprint's updates. 
+
+- Ensured accuracy in grammar, sentence structure, and overall content consistency while following the company's format and style guidelines.
+
+### PREVIOUS WORK SUMMARY
+
+Apart from technical writing, I also delved into:
+
+- **Search Engine Optimization** (SEO) is about refining the target web content with relevant keywords to improve the site’s visibility on search engines. More visibility means a higher likelihood of someone visiting the website when they use the search engine to look for related information.
+
+- **Content Writing** involves the creation of engaging and relevant material in WordPress to drive traffic to the website.
+
+- **Graphic Design** is the creation of visual website content through Adobe Photoshop and Illustrator. This helps enhance the user experience by providing visual aids, attractive thumbnails, and key visuals.
+
+- **Content Management** combines all these factors and turns a website into a well-oiled machine. If successful, a website can see an increase in organic traffic with an increase in audience engagement and retention.
+
+### WORK HISTORY
+- Same as current so I'm not adding here
+
+### EDUCATION
+- Saint Louis University
+- Bachelor of Science in Nursing
+- Graduated April 2012
+- Took and passed the nursing board exam July 2012	
+								
+### SKILLS AND INTERESTS
+- Believe it or not, I have been doing technical writing (in some capacity) since I was in high school. 
+
+  + Growing up in a poor environment, I had to quickly learn the ins and outs of PC repair. 
+  + Specifically, I taught myself how to troubleshoot hardware and software issues and to apply a fix when possible.
+  + This involved pinpointing the problem, doing the research, translating technical jargon into something I could understand, applying the solution, and writing a detailed step-by-step guide for future reference – just in case the issue reappeared.
+
+- I watch an incredibly unhealthy amount of The Office, Brooklyn 99, Community, and Star Trek: The Next Generation. 
+
+- I firmly believe that the best way to learn is through hands-on experience. I taught myself how to use all the applications mentioned in this resume by hands-on practice – learning by doing. When you enjoy something, mastering it comes naturally.
+
+- I have a love-hate relationship with World of Warcraft.
+
+- In addition to 10+ years of graphic design, I enjoy drawing digitally on Adobe Photoshop with my drawing tablet. And yes, I learned by doing – starting with MS Paint and a mouse.
