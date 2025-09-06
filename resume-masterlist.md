@@ -4,7 +4,9 @@ description: ""
 layout: default
 ---
 
-# CURRENT RESUME
+# RESUME HISTORY
+---
+# SEPT 6, 2025
 ---
 ## WORK EXPERIENCE
 
@@ -153,8 +155,6 @@ I also did other stuff for Optum (I included here the tech writing stuff as well
   + Created visuals for reports and PowerPoint presentations 
   + Edited and updated logos, images, and favicons
 
-
-# LEGACY RESUMES
 ---
 
 # DEC 31, 2024
