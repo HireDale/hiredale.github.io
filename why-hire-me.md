@@ -31,3 +31,13 @@ A decade of remote work has honed my skills in time management and workload prio
 <p style="text-align: justify;">
 It has also strengthened my ability to work independently without constant supervision, while also still understanding the importance of continuous collaboration to ensure accurate and up-to-date documentation.
 </p>
+
+## **SEE ALSO**
+---
+
+- [**Sample Product Overview**](https://hiredale.github.io/daleydose/)
+- [**Sample Product Help Files**](https://hiredale.github.io/daleydose/help-files)
+- [**Sample Product Release Notes**](https://hiredale.github.io/daleydose/release-notes-v1.4)
+- **Sample API Documentation**
+- **Troubleshooting Guides**
+- **Day to Day Responsibilities**
