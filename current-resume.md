@@ -37,7 +37,6 @@ Technical communicator with 13+ years of experience producing API documentation,
 - Created instructional guides for Oracle application training materials.  
 - Collaborated with SMEs to validate technical accuracy.  
 - Transcribed and restructured in‑house training recordings to improve clarity, grammar, and instructional flow; prepared scripts for AI‑narrated delivery to new hires.  
-- **Initiated and completed migration of personal technical writing portfolio from WordPress to GitHub Pages**, creating a custom site via repositories and Markdown pages. Learned and applied GitHub interface fundamentals, repository structuring, and Markdown formatting to publish and maintain a live documentation portfolio.  
 
 ### Technical Writer II  
 **Change Healthcare / Optum** • United States • Full‑Time • Remote • Mar 2021 – Apr 2024  
@@ -64,6 +63,13 @@ Technical communicator with 13+ years of experience producing API documentation,
 **OH5** • Turkey • Full‑Time • Remote • Apr 2012 – Feb 2014  
 - Produced graphic content, illustrations, and technical articles for digital platforms.  
 - Created blog posts, visual guides, sponsored content, and tech‑focused materials for online audiences.  
+
+---
+
+## Professional Development & Projects  
+- **Portfolio Migration:** Initiated and completed migration of personal technical writing portfolio from WordPress to GitHub Pages, creating a custom site via repositories and Markdown pages. Learned and applied GitHub interface fundamentals, repository structuring, and Markdown formatting to publish and maintain a live documentation portfolio.  
+- **AI Tool Integration:** Exploring integration of AI tools (ChatGPT, Microsoft Copilot) into documentation workflows for content drafting, editing, and knowledge base optimization.  
+- **API Documentation:** Expanding expertise in documenting RESTful APIs, including endpoint descriptions, authentication flows, and example requests/responses.  
 
 ---
 
