@@ -16,24 +16,31 @@ The work portfolio is under construction, please stand by.
 - ## Featured Work
 
 - [**Sample Product Overview**](https://hiredale.github.io/daleydose/)
+  
   High-level summary of a fictional SaaS product. Highlights core features, target users, and business value for quick stakeholder alignment.
   
 - [**Sample Product Help Files**](https://hiredale.github.io/daleydose/help-files)
+  
   Modular help file set with task-based instructions, UI walkthroughs, and embedded troubleshooting links. Designed for reuse and scalability.
   
 - [**Sample Product Release Notes**](https://hiredale.github.io/daleydose/release-notes-v1.4)
+  
   Versioned changelog capturing feature rollouts, bug fixes, and known issues. Uses standardized terminology and impact flags for CI/CD integration.
 
-- **Sample API Documentation**  
+- **Sample API Documentation**
+  
   RESTful API reference with endpoint breakdowns, parameter tables, and response samples. Follows OpenAPI and Microsoft style guide conventions.
 
-- **Troubleshooting Guides**  
+- **Troubleshooting Guides**
+  
   Stepwise diagnostic protocols for common issues. Includes symptom mapping, root cause isolation, and resolution paths for support handoff.
 
-- **Day to Day Responsibilities**  
+- **Day to Day Responsibilities**
+  
   Snapshot of typical technical writing tasks in agile environments. Covers sprint planning, doc maintenance, and cross-functional collaboration.
 
-- **Why Hire Me?**  
+- **Why Hire Me?**
+  
   Credibility-focused pitch outlining writing strengths, technical adaptability, and modular thinking. Tailored for hiring managers and recruiters.
 
 ## **WHY I WRITE**
