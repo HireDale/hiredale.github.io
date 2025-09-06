@@ -11,7 +11,7 @@ Metro Manila, Philippines • [Email] • [Phone] • [LinkedIn] • [Portfolio 
 ---
 
 ## Professional Summary  
-Technical communicator with 13+ years of experience producing API documentation, modular help systems, and e‑learning content for complex platforms in healthcare, fintech, and consumer tech. **Proactively acquired and applied expertise** in industry‑standard tools, style guides, and Agile workflows to deliver sprint‑ready documentation. Skilled at translating SME knowledge into clear, user‑focused content that reduces onboarding time, improves product adoption, and lowers support demand.  
+Technical communicator with 13+ years of experience producing API documentation, modular help systems, and e‑learning content for complex platforms in healthcare, fintech, and consumer tech. Proactively acquired and applied expertise in industry‑standard tools, style guides, and Agile workflows to deliver sprint‑ready documentation. Skilled at translating SME knowledge into clear, user‑focused content that reduces onboarding time, improves product adoption, and lowers support demand.  
 
 ---
 
