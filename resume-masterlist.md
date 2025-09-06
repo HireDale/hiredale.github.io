@@ -64,6 +64,9 @@ Over the years, I have used the following tools and applications for technical w
 - MS SharePoint
 - WordPress 
 
+## WORK PORTFOLIO
+- HireDale.com
+
 ## DAY-TO-DAY TASKS
 
 Creating and managing technical documentation for a client-facing product can be very cyclical. 
