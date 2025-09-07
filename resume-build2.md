@@ -16,7 +16,7 @@ Technical writer with 13+ years’ experience creating documentation for healthc
 
 ## **Professional Development & Projects**  
 - **Portfolio Migration:** Migrated personal technical writing portfolio from WordPress to GitHub Pages, creating a custom site via repositories and Markdown pages. Applied GitHub interface fundamentals, repository structuring, and Markdown formatting to publish and maintain a live documentation portfolio.  
-- **AI Tool Integration:** Integrated AI tools (**ChatGPT**, **Microsoft Copilot**) into documentation workflows for content drafting, editing, and knowledge base optimization — reducing initial drafting time by an estimated **20%** and improving style consistency across deliverables.
+- **AI Tool Integration:** Integrated AI tools (**ChatGPT**, **Microsoft Copilot**) into documentation workflows for content drafting, editing, and knowledge base optimization — reducing initial drafting time by an estimated 20% and improving style consistency across deliverables.
 - **API Documentation:** Expanded expertise in documenting RESTful APIs, including endpoint descriptions, authentication flows, and example requests/responses.
 
 ---
