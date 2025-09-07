@@ -53,18 +53,24 @@ Technical writer with 13+ years’ experience creating documentation for healthc
 ---
 
 ### **Technical Writer**  
-**Drone Addicts** • Philippines • Contract • Remote • 2019 – 2020  
+**Drone Addicts** • Canada • Freelance • Remote • Nov 2018 – May 2020 
 - Created user guides, troubleshooting steps, and product reviews for consumer drone technology.  
 - Produced clear, visually supported instructions for firmware updates, calibration, and maintenance.  
 - Coordinated with product testers to validate documentation accuracy before publication.
 
 ---
 
-### **Digital Content Manager / Creator**  
-**OH5** • Philippines • Full‑Time • 2016 – 2018  
+### **Digital Content Manager**  
+**OH5** • Turkey • Full‑Time • Remote • Feb 2014 – Oct 2018  
 - Managed digital assets, SEO optimization, and publishing schedules for a tech‑focused content platform.  
 - Authored articles, tutorials, and reviews on emerging technologies and consumer electronics.  
 - Designed graphics and layouts using **Adobe Photoshop** and **Illustrator** to enhance content presentation.
+
+---
+
+### **Digital Content Creator**  
+**OH5** • Turkey • Full‑Time • Remote • Apr 2012 – Feb 2014  
+Produced graphic content, illustrations, and technical articles for digital platforms.
 
 ---
 
