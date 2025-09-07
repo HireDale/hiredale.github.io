@@ -24,7 +24,7 @@ Technical writer with 13+ years’ experience creating documentation for healthc
 ## **Core Competencies**  
 - **Product & API Documentation** — API references, SaaS documentation, modular help systems  
 - **Content Development & Delivery** — e‑learning scripts, multimedia integration, style guide compliance  
-- **Tools & Platforms** — **Adobe RoboHelp**, **FrameMaker**, **Captivate**, **Photoshop**, **Illustrator**, **GitHub Pages**, **Confluence**, **Jira**  
+- **Tools & Platforms** — Adobe RoboHelp, FrameMaker, Captivate, Photoshop, Illustrator, GitHub Pages, Confluence, MadCap Flare, Jira  
 - **Collaboration & Workflow** — Agile/Scrum, SME engagement, cross‑time‑zone coordination  
 - **ATS Keywords:** DITA XML, structured authoring, single‑sourcing, content reuse, RESTful API documentation  
 
