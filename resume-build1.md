@@ -5,19 +5,12 @@ layout: default
 ---
 # Dale [Last Name]  
 Technical Writer - End-User Documentation
-gohiredale@gmail.com • +63 969-xxx-0969 • hiredale.com • linkedin.com/in/hiredale
+gohiredale@gmail.com • +63 969-xxx-0969 • hiredale.com • linkedin.com/in/dalexxxxxgxxxx
 
 ---
 
-## Professional Summary  
-Technical writer with 13+ years’ experience creating documentation for healthcare, fintech, and SaaS products. Skilled in producing modular help systems, API references, and e‑learning materials for diverse audiences — from junior developers and QA bootcampers to clinicians, pharmacists, patients, and internal technical teams. Adept at balancing technical precision with accessibility, ensuring content is usable by both expert and first‑time users.
-
----
-
-## Professional Development & Projects  
-- **Portfolio Migration:** Migrated personal technical writing portfolio from WordPress to GitHub Pages, creating a custom site via repositories and Markdown pages. Applied GitHub interface fundamentals, repository structuring, and Markdown formatting to publish and maintain a live documentation portfolio.  
-- **AI Tool Integration:** Exploring integration of AI tools (ChatGPT, Microsoft Copilot) into documentation workflows for content drafting, editing, and knowledge base optimization.  
-- **API Documentation:** Expanding expertise in documenting RESTful APIs, including endpoint descriptions, authentication flows, and example requests/responses.  
+## PROFESSIONAL SUMMARY
+**Technical Writer** with 13+ years creating end-user documentation for medical, healthcare, fintech, SaaS, and physical device products. Expert in modular help systems, release notes, and online support content that balance precision with accessibility. Skilled in medical and healthcare software, with additional experience in API documentation and e-learning. Delivers clear, usable content for both hardware and digital platforms.
 
 ---
 
