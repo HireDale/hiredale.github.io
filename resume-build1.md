@@ -65,5 +65,7 @@ dalexxxxxx@gmail.com • +63 969-xxx-0969 • hiredale.com • linkedin.com/in/d
 ---
 
 ## **EDUCATION AND PORTFOLIO**
+
 **Bachelor of Science in Nursing** - Saint Louis University (2012)
+
 **Technical Writing & Documentation Samples:** HireDale.com
