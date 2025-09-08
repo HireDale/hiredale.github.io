@@ -27,7 +27,7 @@ dalexxxxxx@gmail.com • +63 969-xxx-0969 • hiredale.com • linkedin.com/in/d
 
 ---
 
-## **PROFESSIONAL EXPERIENCE ** 
+## **PROFESSIONAL EXPERIENCE** 
 
 ### **Senior Consultant**  
 **RIA Advisory** • Philippines • Hybrid → Remote (Day Shift) • Feb 2025 – Sep 2025  
