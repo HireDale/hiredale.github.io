@@ -4,8 +4,8 @@ description: ""
 layout: default
 ---
 # Dale [Last Name]  
-Technical Writer | API Documentation | E‑Learning Content  
-Metro Manila, Philippines • [Email] • [Phone] • [LinkedIn] • [Portfolio URL]  
+Technical Writer - End-User Documentation
+gohiredale@gmail.com • +63 969-xxx-0969 • hiredale.com • linkedin.com/in/hiredale
 
 ---
 
