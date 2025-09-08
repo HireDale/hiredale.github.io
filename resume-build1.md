@@ -3,7 +3,7 @@ title: ""
 description: ""
 layout: default
 ---
-# Dale [Last Name]  
+# DALE GXXXX  
 
 Technical Writer - End-User Documentation
 
@@ -16,7 +16,7 @@ gohiredale@gmail.com • +63 969-xxx-0969 • hiredale.com • linkedin.com/in/d
 
 ---
 
-## Core Competencies  
+## CORE COMPETENCIES  
 - **Tools & Platforms** – Adobe Products (RoboHelp, FrameMaker, Captivate, Acrobat, Photoshop, Illustrator), Microsoft Office (Word, Excel, Visio), OneDrive, SharePoint, Jira (Agile & Waterfall), Confluence, GitHub, WordPress, MadCap Flare, TortoiseSVN, cloud-based document management
 - **End User Documentation** – Help files, release notes, troubleshooting guides, online support content, user manuals, modular help systems, version changelogs
 - **Product & API Documentation** – API references, RESTful API documentation, SaaS documentation, integration guides
@@ -27,7 +27,7 @@ gohiredale@gmail.com • +63 969-xxx-0969 • hiredale.com • linkedin.com/in/d
 
 ---
 
-## Professional Experience  
+## PROFESSIONAL EXPERIENCE  
 
 ### **Senior Consultant**  
 **RIA Advisory** • Philippines • Hybrid → Remote (Day Shift) • Feb 2025 – Sep 2025  
