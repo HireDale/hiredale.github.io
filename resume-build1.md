@@ -4,33 +4,37 @@ description: ""
 layout: default
 ---
 # Dale [Last Name]  
+
 Technical Writer - End-User Documentation
+
 gohiredale@gmail.com • +63 969-xxx-0969 • hiredale.com • linkedin.com/in/dalexxxxxgxxxx
 
 ---
 
 ## PROFESSIONAL SUMMARY
-**Technical Writer** with 13+ years creating end-user documentation for medical, healthcare, fintech, SaaS, and physical device products. Expert in modular help systems, release notes, and online support content that balance precision with accessibility. Skilled in medical and healthcare software, with additional experience in API documentation and e-learning. Delivers clear, usable content for both hardware and digital platforms.
+**Technical Writer** with **13+ years** creating end user documentation for medical, healthcare, fintech, SaaS, and physical device products. Expert in **modular help systems**, release notes, and online support content that balance precision with accessibility. Skilled in medical and healthcare software, with additional experience in **API documentation**, e learning, and **graphic design** for visual assets, diagrams, and layouts that enhance documentation usability. Delivers clear, usable content for both hardware and digital platforms.
 
 ---
 
 ## Core Competencies  
-- Product & API Documentation — API references, SaaS documentation, modular help systems  
-- Content Development & Delivery — e‑learning scripts, multimedia integration, style guide compliance  
-- Tools & Platforms — Adobe Suite (RoboHelp, FrameMaker, Captivate, Photoshop, Illustrator), GitHub Pages, Confluence, Jira  
-- Collaboration & Workflow — Agile/Scrum, SME engagement, cross‑time‑zone coordination  
+- **Tools & Platforms** – Adobe Products (RoboHelp, FrameMaker, Captivate, Acrobat, Photoshop, Illustrator), Microsoft Office (Word, Excel, Visio), OneDrive, SharePoint, Jira (Agile & Waterfall), Confluence, GitHub, WordPress, MadCap Flare, TortoiseSVN, cloud-based document management
+- **End User Documentation** – Help files, release notes, troubleshooting guides, online support content, user manuals, modular help systems, version changelogs
+- **Product & API Documentation** – API references, RESTful API documentation, SaaS documentation, integration guides
+- **Content Development & Delivery** – E-learning scripts, multimedia integration, style guide compliance, structured authoring, single sourcing, content reuse
+- **AI-Assisted Content Creation** – Workflow design and execution using ChatGPT and Microsoft Copilot for drafting, editing, and style enforcement
+- **Collaboration & Workflow** – Agile/Scrum, Waterfall, SME engagement, international coordination, cross-functional team alignment
+- **Technical Standards & Formats** – DITA XML, Markdown, HTML/CSS, version control (Git, Subversion)
 
 ---
 
 ## Professional Experience  
 
 ### **Senior Consultant**  
-**RIA Advisory** • Philippines • Contract • Hybrid • Feb 2025 – Sep 2025  
-- Designed and authored e‑learning scripts for **Oracle Revenue Management and Billing (RMB)** and **Oracle Customer Cloud Service / Customer to Meter (CCS/C2M)**, enabling smooth transitions for non‑technical staff and new QA/Dev hires
-- Structured tutorials for first‑time learners of Oracle applications, using progressive complexity and plain‑language explanations to build foundational skills before introducing advanced workflows.  
-- Researched and navigated live Oracle environments to produce accurate, experience‑based scripts.  
-- Developed and maintained style, tone, and terminology guides to ensure consistency across training materials.  
-- Transcribed and restructured in‑house training recordings to improve clarity, grammar, and instructional flow; prepared scripts for AI‑narrated delivery to new hires and external learners.  
+**RIA Advisory** • Philippines • Hybrid → Remote (Day Shift) • Feb 2025 – Sep 2025  
+- Developed and composed e‑learning training materials for **Oracle Revenue Management and Billing** (RMB) and **Oracle Customer Cloud Service** / **Customer to Meter** (CCS/C2M), enabling seamless onboarding for non‑technical personnel and newly hired QA and development team members.
+- Structured tutorials for **first‑time Oracle application users**, applying progressive complexity and plain‑language explanations to build foundational skills before advancing to complex topics.
+- Researched and navigated live Oracle environments to produce accurate, experience‑based training scripts.
+- Created and maintained **style**, **tone**, and **terminology guides** to ensure consistency across all training materials and projects.
 
 ### **Technical Writer II**  
 **Change Healthcare / Optum** • United States • Full‑Time • Remote • Mar 2021 – Apr 2024  
