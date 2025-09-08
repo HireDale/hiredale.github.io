@@ -3,20 +3,20 @@ title: ""
 description: ""
 layout: default
 ---
-# DALE GXXXX  
+# **DALE GXXXX**  
 
 Technical Writer - End-User Documentation
 
-gohiredale@gmail.com • +63 969-xxx-0969 • hiredale.com • linkedin.com/in/dalexxxxxgxxxx
+dalexxxxxx@gmail.com • +63 969-xxx-0969 • hiredale.com • linkedin.com/in/dalexxxxxgxxxx
 
 ---
 
-## PROFESSIONAL SUMMARY
+## **PROFESSIONAL SUMMARY**
 **Technical Writer** with **13+ years** creating end user documentation for medical, healthcare, fintech, SaaS, and physical device products. Expert in **modular help systems**, release notes, and online support content that balance precision with accessibility. Skilled in medical and healthcare software, with additional experience in **API documentation**, e learning, and **graphic design** for visual assets, diagrams, and layouts that enhance documentation usability. Delivers clear, usable content for both hardware and digital platforms.
 
 ---
 
-## CORE COMPETENCIES  
+## **CORE COMPETENCIES** 
 - **Tools & Platforms** – Adobe Products (RoboHelp, FrameMaker, Captivate, Acrobat, Photoshop, Illustrator), Microsoft Office (Word, Excel, Visio), OneDrive, SharePoint, Jira (Agile & Waterfall), Confluence, GitHub, WordPress, MadCap Flare, TortoiseSVN, cloud-based document management
 - **End User Documentation** – Help files, release notes, troubleshooting guides, online support content, user manuals, modular help systems, version changelogs
 - **Product & API Documentation** – API references, RESTful API documentation, SaaS documentation, integration guides
@@ -27,7 +27,7 @@ gohiredale@gmail.com • +63 969-xxx-0969 • hiredale.com • linkedin.com/in/d
 
 ---
 
-## PROFESSIONAL EXPERIENCE  
+## **PROFESSIONAL EXPERIENCE ** 
 
 ### **Senior Consultant**  
 **RIA Advisory** • Philippines • Hybrid → Remote (Day Shift) • Feb 2025 – Sep 2025  
@@ -37,37 +37,33 @@ gohiredale@gmail.com • +63 969-xxx-0969 • hiredale.com • linkedin.com/in/d
 - Created and maintained **style**, **tone**, and **terminology guides** to ensure consistency across all training materials and projects.
 
 ### **Technical Writer II**  
-**Change Healthcare / Optum** • United States • Full‑Time • Remote • Mar 2021 – Apr 2024  
-- Produced dual‑audience help files for healthcare applications used by clinicians (doctors, pharmacists) and patients, balancing clinical precision with accessible instructions for users with low technical literacy, including elderly patients.  
-- Created content that avoided “talking down” to professionals while remaining navigable for non‑technical users, ensuring both groups could complete key workflows without external assistance.  
-- Developed internal API documentation for QA, development, and design teams, detailing endpoints, authentication flows, and integration notes for internal systems.  
-- Authored release notes, online support content, and in‑app tutorials for applications including **Converge Rx (CRX)**, **Storage Based Mail Order (SBMO)**, **PDX‑MS**, **Clinical Interview**, **POM API**, **EOPN**, and **ePharmacy**.  
-- Maintained documentation in sync with Agile sprint cycles, ensuring timely updates and accuracy.  
-- Produced visuals for reports and presentations; updated logos, images, and favicons using **Adobe Photoshop** and **Illustrator**.  
+**Change Healthcare / Optum** • United States • Remote (Graveyard Shift) • Mar 2021 – Apr 2024  
+- Produced dual-audience help systems for **healthcare applications**, delivering precise clinical guidance for doctors, nurses, and pharmacists while ensuring accessibility for patients with low technical literacy.
+- Created and maintained **RESTful API documentation** (endpoint definitions, authentication flows, sample payloads) to communicate changes to internal teams and support sprint/release planning.
+- Authored online support content that improved product adoption and reduced live support demand, while managing **version histories** by archiving obsolete documents to designated repository sections upon new releases.
+- Collaborated with developers, QA, and product managers in **Agile sprints** to align documentation with release timelines, feature scope, and compliance requirements.
+- Participated in Agile/Scrum ceremonies - sprint planning, daily stand-ups, sprint reviews/demos, and retrospectives - to align deliverables with development milestones and feedback.
+- Executed end-of-sprint publishing of **Adobe RoboHelp** help files for sprint user stories, distributing to the development team for review and delivering final embedded help content for application builds (no online help server in place).
+- Produced and distributed **Adobe FrameMaker** release notes company-wide to highlight sprint deliverables and provide visibility into release scope.
 
 ### **Technical Writer**  
-**Drone Addicts** • Canada • Freelance • Remote • Nov 2018 – May 2020  
-Authored setup, usage, and troubleshooting guides for consumer drones; produced review content and partnered with testers to validate steps.
+**Drone Addicts** • Canada • Remote (Graveyard Shift) • Nov 2018 – May 2020  
+- Created **hardware‑focused** user guides, troubleshooting steps, and product reviews for consumer drone technology.
+- Produced clear, visually supported instructions for physical device tasks such as firmware updates, calibration, and maintenance.
 
 ### **Digital Content Manager**  
-**OH5** • Turkey • Full‑Time • Remote • Feb 2014 – Oct 2018  
-Managed digital assets, SEO strategy, and brand‑consistent content delivery across web and social platforms.
+**OH5** • Turkey • Remote (Graveyard Shift) • Feb 2014 – Oct 2018  
+- Managed digital assets and publishing schedules across multiple company-owned, tech-focused content platforms.
+- Optimized both company‑owned platforms and client/vendor pages for SEO, improving search rankings and expanding audience reach.
+- Authored articles, tutorials, and reviews on emerging technologies and consumer electronics.
+
 
 ### **Digital Content Creator**  
-**OH5** • Turkey • Full‑Time • Remote • Apr 2012 – Feb 2014  
-Produced graphic content, illustrations, and technical articles for digital platforms.
+**OH5** • Turkey • Remote (Graveyard Shift) • Apr 2012 – Feb 2014  
+- Created graphic content, illustrations, and technical articles to support branding, user engagement, and knowledge sharing across digital platforms.
 
 ---
 
-## Technical Proficiencies  
-**Documentation Tools:** Adobe Acrobat, Adobe Captivate, Adobe FrameMaker, Adobe RoboHelp, MadCap Flare  
-**Design Tools:** Adobe Illustrator, Adobe Photoshop  
-**Collaboration Tools:** Atlassian Confluence, Atlassian Jira, MS Teams, SharePoint, OneDrive  
-**Web & Content:** WordPress, GitHub Pages, HTML/CSS basics, Markdown  
-**Productivity:** MS Office Suite, Excel (tracking & reporting)  
-
----
-
-## Education  
-**Bachelor of Science in Nursing** — Saint Louis University, Apr 2012  
-Passed Nursing Board Exam, Jul 2012  
+## **EDUCATION AND PORTFOLIO**
+**Bachelor of Science in Nursing** - Saint Louis University (2012)
+**Technical Writing & Documentation Samples:** HireDale.com
