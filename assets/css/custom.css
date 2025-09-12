@@ -96,25 +96,3 @@ ul ul {
   list-style-type: square;
   margin-left: 1.5rem;
 }
-
-/* === Responsive Adjustments === */
-@media (max-width: 1200px) {
-  .layout-container {
-    flex-wrap: wrap;
-  }
-
-  .left-sidebar,
-  .right-sidebar {
-    width: 100%;
-    margin: 20px 0;
-    position: static;
-    border: none; /* remove borders on mobile wrap */
-  }
-
-  .main-content {
-    max-width: 100%;
-    margin: 0;
-    padding: 0 20px;
-    border: none; /* remove borders on mobile wrap */
-  }
-}
