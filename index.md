@@ -1,7 +1,7 @@
 ---
-title: ""
-theme: default
+title: "HireDale.com - Home"
 description: ""
+theme: default
 ---
 
 # **WORK PORTFOLIO**
