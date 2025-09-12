@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "HireDale.com - Why Hire Me"
 description: ""
 layout: default
 ---
