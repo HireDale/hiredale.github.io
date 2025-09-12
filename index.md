@@ -31,12 +31,12 @@ I have profound respect for the role technical documents play in providing essen
 
 - **Sample API Documentation**
   
-  RESTful API reference for Daley Dose, a fictional SaaS application created for technical writing demonstrations. Includes endpoint breakdowns, parameter tables, and response samples, following OpenAPI and Microsoft style guide conventions. (Coming Soon)
+  RESTful API reference for Daley Dose, a fictional SaaS application created for technical writing demonstrations. Includes endpoint breakdowns, parameter tables, and response samples, following OpenAPI and Microsoft style guide conventions.
 
 
 - **Troubleshooting Guides**
   
-  Modular, step‑by‑step diagnostic guides covering a variety of common technical issues. Designed with clear symptom mapping, root‑cause isolation, and resolution paths to support quick problem‑solving and smooth handoff to support teams. (Coming Soon)
+  Modular, step‑by‑step diagnostic guides covering a variety of common technical issues. Designed with clear symptom mapping, root‑cause isolation, and resolution paths to support quick problem‑solving and smooth handoff to support teams.
 
 - [**Day to Day Responsibilities**](/day-to-day)
   
