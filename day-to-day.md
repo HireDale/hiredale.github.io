@@ -25,7 +25,7 @@ My day-to-day tasks included:
 - Creating tutorial support clips and additional e-learning content using Adobe Captivate.
 - Creating and managing supplemental visuals, art, and instructional graphics using Adobe Photoshop and Adobe Illustrator.
 
-## **COLLABORATIVE TASKS**
+## **COLLABORATIVE RESPONSIBILITIES**
 ---
 From experience, technical writing is 50% documentation and 50% collaboration. 
 
