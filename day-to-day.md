@@ -1,14 +1,12 @@
 ---
-title: ""
+title: "HireDale.com - Responsibilities"
 description: ""
 layout: default
 ---
 
 ## **DAY TO DAY RESPONSIBILITIES**
 ---
-<p style="text-align: justify;">
 Creating and managing technical documentation for a client-facing product can be very cyclical. There is always something new to add and there is always something to change with every new sprint. Over time, documentation becomes a constant loop of research, writing, editing, and publication – with an ever-growing list of tasks for the next product release. 
-</p>
 
 My day-to-day tasks included:
 
@@ -27,17 +25,14 @@ My day-to-day tasks included:
 - Creating tutorial support clips and additional e-learning content using Adobe Captivate.
 - Creating and managing supplemental visuals, art, and instructional graphics using Adobe Photoshop and Adobe Illustrator.
 
-## **COLLABORATIVE TASKS**
+## **COLLABORATIVE RESPONSIBILITIES**
 ---
-<p style="text-align: justify;">
 From experience, technical writing is 50% documentation and 50% collaboration. 
-</p>
-<p style="text-align: justify;">
+
 Without constant communication and feedback from the Development Team, the current documentation is at risk of being out of date, inaccurate, or incomplete. And the last thing you need to hear after publication is a team member wanting last-minute changes to the already-published work. Therefore, it is necessary to keep the team informed during the entire technical writing process.
-</p>
-<p style="text-align: justify;">
+
 During the course of a standard sprint cycle, my team-centric tasks include:
-</p>
+
 
 - Monitoring the product’s developments and roadblocks via user stories and attached files in Atlassian Jira and other online support files. This ensures accurate and up-to-date sources for documentation.
 - Collaborating with Designers, QAs, Developers, and Product Owners to gather information on documentation changes.
@@ -47,13 +42,3 @@ During the course of a standard sprint cycle, my team-centric tasks include:
   + Incorporate their insights to enhance team rapport and line of communication for future sprints and projects
 - Acting as a liaison between Development Team members to resolve conflicts in feedback. This is to ensure that the changes have been approved by both the QAs and the Developers. 
 - Attending meetings, presentations, and demos using MS Teams to discuss changes and progress in the user stories.
-
-## **SEE ALSO**
----
-
-- [**Sample Product Overview**](https://hiredale.github.io/daleydose/)
-- [**Sample Product Help Files**](https://hiredale.github.io/daleydose/help-files)
-- [**Sample Product Release Notes**](https://hiredale.github.io/daleydose/release-notes-v1.4)
-- **Sample API Documentation**
-- **Troubleshooting Guides**
-- [**Why Hire Me**](/why-hire-me)

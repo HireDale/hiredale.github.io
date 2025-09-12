@@ -12,7 +12,7 @@ Without direct human assistance, help files and other support documents become t
 
 I have profound respect for the role technical documents play in providing essential assistance. They encourage users to develop better self‑reliance for troubleshooting and enhance independent learning for product use. I also enjoy the cyclical nature of creating, editing, and maintaining documentation with each product update.
 
-## **FEATURED WORK**
+## **FEATURED WORK SAMPLES**
 ---
 
 - [**Sample Product Overview**](https://hiredale.github.io/daleydose/)
@@ -31,12 +31,16 @@ I have profound respect for the role technical documents play in providing essen
 
 - **Sample API Documentation**
   
-  RESTful API reference for Daley Dose, a fictional SaaS application created for technical writing demonstrations. Includes endpoint breakdowns, parameter tables, and response samples, following OpenAPI and Microsoft style guide conventions. (Coming Soon)
+  RESTful API reference for Daley Dose, a fictional SaaS application created for technical writing demonstrations. Includes endpoint breakdowns, parameter tables, and response samples, following OpenAPI and Microsoft style guide conventions.
 
 
 - **Troubleshooting Guides**
   
-  Modular, step‑by‑step diagnostic guides covering a variety of common technical issues. Designed with clear symptom mapping, root‑cause isolation, and resolution paths to support quick problem‑solving and smooth handoff to support teams. (Coming Soon)
+  Modular, step‑by‑step diagnostic guides covering a variety of common technical issues. Designed with clear symptom mapping, root‑cause isolation, and resolution paths to support quick problem‑solving and smooth handoff to support teams.
+
+  
+## **EXPERIENCE OVERVIEW**
+---
 
 - [**Day to Day Responsibilities**](/day-to-day)
   
