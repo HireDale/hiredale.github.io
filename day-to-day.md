@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "HireDale.com - Responsibilities"
 description: ""
 layout: default
 ---
