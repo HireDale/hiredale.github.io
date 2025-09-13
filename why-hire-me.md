@@ -4,13 +4,14 @@ description: ""
 layout: default
 ---
 
-# **WHY HIRE ME**
+## **WHY HIRE ME**
 ---
-My main sales pitch highlights my specialization and years of experience in two areas: technical writing and graphic design.
 
-Technical writing is essential to effectively teach readers about a given topic. A good technical writer can provide clear, well-researched, and concise guides that can help both new and experienced users with their current problems.  
+My work is built on a simple principle: documentation should serve the reader, not the writer. I create end‑user documentation that meets people where they are — whether they are first‑time users or experienced professionals — and guide them to their goal without confusion or wasted time.
 
-Adding graphic design to the mix further enhances the learning material by offering visual aid, quick summaries, and infographics. Key visuals can help reinforce the necessary concepts, making them easier to understand and remember. This combination ensures a comprehensive and engaging learning experience for all types of learners, enhancing retention of the subject matter.
+I approach every project by stepping into the reader’s perspective. I consider their technical background, their likely pain points, and the context in which they will use the material. This allows me to choose the right level of detail, the right structure, and the right language to make the instructions clear, relevant, and actionable.
+
+Good documentation is more than a list of steps. It anticipates questions before they are asked, removes unnecessary complexity, and gives the user confidence in what they are doing. My goal is to ensure that the intended audience not only understands the instructions but can apply them successfully in real‑world situations.
 
 ## **A HISTORY OF REMOTE WORK**
 ---
