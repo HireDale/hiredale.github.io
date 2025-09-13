@@ -6,10 +6,10 @@ description: ""
 
 # **TABLE OF CONTENTS**
 ---
-To begin, select a topic. These topics are categorized into sections that group related information together, making them easier to navigate.
+Browse the sections below for professional and technical content — from product documentation and troubleshooting resources to game reviews and insights into my work. Each category is organized for easy navigation and include sample projects, guides, and articles that move from high‑level overviews to detailed instructions.
 
 ## **PRODUCT DOCUMENTATION**
-Access resources covering user guidance, release updates, historical changes, and technical references for the fictitious **Daley Dose** application — an online prescription service created for technical portfolio purposes.
+Access resources covering sample user guides, release updates, historical changes, and technical references for the fictitious **Daley Dose** application — an online prescription service created for technical portfolio purposes.
 
 - [**Product Overview**](https://hiredale.github.io/daleydose/)  
   Open the Daley Dose central hub to explore its main features, navigation, and available resources.
