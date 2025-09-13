@@ -4,29 +4,24 @@ title: "HireDale.com - Table of Contents"
 description: ""
 ---
 
-# **DALEY DOSE HELP FILES**
----
-The **Help files** enable you to learn how to use every part of the Daley Dose application with confidence.
-
-From installing and updating the software to navigating windows, managing prescriptions, and troubleshooting issues, each guide walks you step by step through the tasks you need to complete. Use this table of contents to jump directly to the instructions that match your task.
-
-You can access the Daley Dose help files from within the application by selecting the **Help** button or through the Daley Dose website.
-
 # **TABLE OF CONTENTS**
 ---
-To begin, select a topic. These topics are categorized into sections that group related information together, making them easier to navigate. Each category contains focused guides that move from high‑level overviews to detailed, step‑by‑step instructions, so you can quickly find and follow the information that matches your task.
+To begin, select a topic. These topics are categorized into sections that group related information together, making them easier to navigate.
 
-## **APPLICATION FUNDAMENTALS**
-Explore core topics about the Daley Dose application and its features.
+## **PRODUCT DOCUMENTATION**
+Access resources covering user guidance, release updates, historical changes, and technical references for the fictitious Daley Dose application — an online prescription service created for technical portfolio purposes.
 
-- [**About Daley Dose**](/daleydose/about-daley-dose)  
-  View general information and key features of the Daley Dose application.
+- [**Product Overview**](https://hiredale.github.io/daleydose/)  
+  Open the Daley Dose central hub to explore its main features, navigation, and available resources.
+  
+- [**Help Files**](/daleydose/help-files)  
+  Access the Daley Dose Help Files to quickly find step‑by‑step guides, troubleshooting tips, and feature overviews that help you get the most out of the application.
 
-- [**About User Roles**](/daleydose/about-user-roles)  
-  View available user roles, including each role’s responsibilities and limitations.
+- [**v1.4 Release Notes**](/daleydose/release-notes-v1.4)  
+  Review the latest updates, enhancements, and fixes included in version 1.4 of the Daley Dose application.
 
-- [**About Prescription Restrictions**](/daleydose/about-prescription-restrictions)  
-  View details about the prescription restriction feature, which prevents selected Prescribers from ordering specific types of medication.
+- [**Version History**](/daleydose/release-note-version-history)  
+  View a complete archive of past releases, including feature additions, changes, and resolved issues.
 
 
 ## **TROUBLESHOOTING GUIDES**
