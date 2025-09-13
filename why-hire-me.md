@@ -22,10 +22,8 @@ Remote work has strengthened my skills in time management and workload prioritiz
 
 It has also reinforced my ability to work independently without constant oversight, while maintaining the collaborative practices necessary to keep documentation accurate, consistent, and current.
 
-### **Notable Work Experience**
----
 
-## Notable Work Experience
+## **NOTABLE WORK EXPERIENCE**
 ---
 
 **Change Healthcare / Optum**  
