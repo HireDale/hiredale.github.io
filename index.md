@@ -21,7 +21,7 @@ I have profound respect for the role technical documents play in providing essen
 - [**Product Overview**](https://hiredale.github.io/daleydose/)  
   Open the Daley Dose central hub to explore its main features, navigation, and available resources.
   
-- [**Help Files**](/daleydose/help-files)  
+- [**View the Help Files**](/daleydose/help-files)  
   Access the Daley Dose Help Files to quickly find step‑by‑step guides, troubleshooting tips, and feature overviews that help you get the most out of the application.
 
 - [**Release Notes**](/daleydose/release-notes-v1.4)  
