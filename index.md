@@ -43,3 +43,6 @@ Over the years, I have carried out my technical writing, editing, and content ma
 | **Content Management & Collaboration** | Atlassian Jira, Confluence, WordPress, Ghost, OneDrive, SharePoint, Microsoft Teams |
 | **Multimedia & E‑Learning**            | Adobe Captivate                                                                   |
 | **Graphic & Visual Asset Design**      | Adobe Photoshop, Adobe Illustrator                                                |
+
+
+
