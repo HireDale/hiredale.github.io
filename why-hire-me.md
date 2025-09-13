@@ -24,14 +24,30 @@ It has also reinforced my ability to work independently without constant oversig
 ### **Notable Work Experience**
 ---
 
-- **Change Healthcare / Optum** – Texas, United States – Technical Writer II (Mar 2021 – Apr 2024)  
-  Produced dual‑audience help systems for healthcare applications, RESTful API documentation, and company‑wide release notes, aligning deliverables with compliance and release milestones.
+**Change Healthcare / Optum**  
+Texas, United States  
+Technical Writer II  
+Mar 2021 – Apr 2024  
 
-- **Drone Addicts** – Ottawa, Canada – Technical Writer (Nov 2018 – May 2020)  
-  Created hardware‑focused user guides, troubleshooting steps, and visual instructions for consumer drone technology.
+Produced dual‑audience help systems for healthcare applications, RESTful API documentation, and company‑wide release notes, aligning deliverables with compliance and release milestones.  
 
-- **OH5** – Ankara, Turkey – Technical Content Manager (Feb 2014 – Oct 2018)  
-  Managed technical assets, publishing schedules, and instructional content across multiple platforms.
+**Drone Addicts**  
+Ottawa, Canada  
+Technical Writer  
+Nov 2018 – May 2020  
 
-- **OH5** – Ankara, Turkey – Technical Content Writer (Apr 2012 – Feb 2014)  
-  Authored tutorials, reviews, and technical content on emerging technologies, consumer electronics, and gaming platforms.
+Created hardware‑focused user guides, troubleshooting steps, and visual instructions for consumer drone technology.  
+
+**OH5**  
+Ankara, Turkey  
+Technical Content Manager  
+Feb 2014 – Oct 2018  
+
+Managed technical assets, publishing schedules, and instructional content across multiple platforms.  
+
+**OH5**  
+Ankara, Turkey  
+Technical Content Writer  
+Apr 2012 – Feb 2014  
+
+Authored tutorials, reviews, and technical content on emerging technologies, consumer electronics, and gaming platforms.  
