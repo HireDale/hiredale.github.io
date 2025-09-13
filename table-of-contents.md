@@ -35,13 +35,13 @@ Learn how to diagnose and resolve common hardware, software, and operating syste
 ## **USER REVIEW GUIDES**
 Read in‑depth reviews and evaluations of games, focusing on gameplay experience, performance, usability, and overall value from the end‑user’s perspective.
 
-## **EXPERIENCE OVERVIEW**
-View available windows and their functions in the application.
+## **ABOUT MY WORK**
+Learn more about my professional approach, core strengths, and the responsibilities I handle in my projects.
 
-- [**Home Window**](/daleydose/window-home)  
-  View the Home window and its field and button definitions. This window enables you to create and edit a patient’s prescription.
+- [**Why Hire Me**](/why-hire-me)  
+  Understand my focus on creating clear, empathetic end‑user documentation tailored to the needs and perspectives of the intended audience.
 
-- [**Add Medication Window**](/daleydose/window-add-medication)  
-  View the Add Medication window and its field and button definitions. This window enables you to add, edit, and remove medications from the current prescription.
+- [**Work Responsibilities**](/day-to-day)  
+  See the day‑to‑day tasks, processes, and collaborative practices that ensure my documentation is accurate, consistent, and aligned with project goals.
 
 
