@@ -25,35 +25,49 @@ It has also reinforced my ability to work independently without constant oversig
 ### **Notable Work Experience**
 ---
 
+## Notable Work Experience
+---
+
 **Change Healthcare / Optum**  
 Texas, United States  
-Technical Writer II  
+Technical Writer II – Remote (Graveyard Shift)  
 Mar 2021 – Apr 2024  
 
-- Produced dual‑audience help systems for healthcare applications, delivering precise clinical guidance for medical professionals and accessible instructions for patients.  
-- Created and maintained RESTful API documentation to support internal teams and release planning, ensuring compliance and accuracy.  
-- Authored online support materials that improved product adoption and reduced live support demand.  
-- Managed version histories by archiving obsolete documents upon new releases.  
-- Collaborated with developers, designers, QA, and product owners to align documentation with release timelines, feature scope, and regulatory requirements.
+- Produced dual‑audience help systems for healthcare applications, delivering precise clinical guidance for doctors, nurses, and pharmacists while ensuring accessibility for patients with low technical literacy.  
+- Created and maintained RESTful API documentation (endpoint definitions, authentication flows, sample payloads) to communicate changes to internal teams and support sprint/release planning.  
+- Authored online support content that improved product adoption and reduced live support demand.  
+- Managed version histories by archiving obsolete documents to designated repository sections upon new releases.  
+- Collaborated on each user story with developers, designers, QA, and product owners to align documentation with release timelines, feature scope, and compliance requirements.  
+- Participated in Agile/Scrum ceremonies — sprint planning, daily stand‑ups, sprint reviews/demos, and retrospectives — to align deliverables with development milestones and feedback.  
+- Executed end‑of‑sprint publishing of help files for sprint user stories, distributing to the development team for review and delivering final embedded help content for application builds.  
+- Produced and distributed release notes company‑wide to highlight sprint deliverables and provide visibility into release scope.  
 
+---
 
 **Drone Addicts**  
 Ottawa, Canada  
-Technical Writer  
+Technical Writer – Remote (Graveyard Shift)  
 Nov 2018 – May 2020  
 
-- Created hardware‑focused user guides, troubleshooting steps, and visual instructions for consumer drone technology.  
+- Created hardware‑focused user guides, troubleshooting steps, and product reviews for consumer drone technology.  
+- Produced clear, visually supported instructions for physical device tasks such as firmware updates, calibration, and maintenance.  
+
+---
 
 **OH5**  
 Ankara, Turkey  
-Technical Content Manager  
+Technical Content Manager – Full‑Time, Remote (Graveyard Shift)  
 Feb 2014 – Oct 2018  
 
-- Managed technical assets, publishing schedules, and instructional content across multiple platforms.  
+- Managed technical assets and publishing schedules across multiple company‑owned content platforms.  
+- Continued to produce instructional content, product tutorials, and technical reviews consistent with prior Technical Content Writer responsibilities.  
+
+---
 
 **OH5**  
 Ankara, Turkey  
-Technical Content Writer  
+Technical Content Writer – Full‑Time, Remote (Graveyard Shift)  
 Apr 2012 – Feb 2014  
 
-- Authored tutorials, reviews, and technical content on emerging technologies, consumer electronics, and gaming platforms.  
+- Authored instructional content, product tutorials, and technical reviews on emerging technologies, consumer electronics, and gaming platforms.  
+- Covered both hardware (gadgets, phones, wearables, consoles) and software (game performance, usability, replay value).  
