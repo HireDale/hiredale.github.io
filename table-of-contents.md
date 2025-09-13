@@ -9,7 +9,7 @@ description: ""
 To begin, select a topic. These topics are categorized into sections that group related information together, making them easier to navigate.
 
 ## **PRODUCT DOCUMENTATION**
-Access resources covering user guidance, release updates, historical changes, and technical references for the fictitious Daley Dose application — an online prescription service created for technical portfolio purposes.
+Access resources covering user guidance, release updates, historical changes, and technical references for the fictitious **Daley Dose** application — an online prescription service created for technical portfolio purposes.
 
 - [**Product Overview**](https://hiredale.github.io/daleydose/)  
   Open the Daley Dose central hub to explore its main features, navigation, and available resources.
