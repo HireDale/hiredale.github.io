@@ -15,6 +15,9 @@ I have profound respect for the role technical documents play in providing essen
 ## **FEATURED CONTENT**
 ---
 
+- [**Table of Contents**](/table-of-contents)  
+  View the complete list of sections and materials included in this work portfolio.
+
 - [**Product Overview**](https://hiredale.github.io/daleydose/)  
   Open the Daley Dose central hub to explore its main features, navigation, and available resources.
   
@@ -28,9 +31,15 @@ I have profound respect for the role technical documents play in providing essen
   View a complete archive of past releases, including feature additions, changes, and resolved issues.
 
 
-## **GET STARTED**
----
-To begin, head to the [**Table of Contents**](/table-of-contents).
-
-
 ## **APPLICATIONS USED**
+---
+Over the years, I have carried out my technical writing, editing, and content management work using a range of authoring, publishing, collaboration, and design tools.
+
+
+| Category                              | Tools / Platforms                                                                 |
+|---------------------------------------|------------------------------------------------------------------------------------|
+| **Help File & Documentation Authoring** | Adobe RoboHelp, MadCap Flare, Microsoft Word, Adobe FrameMaker, Atlassian Confluence, WordPress, Ghost |
+| **Release Notes & Document Publishing** | Adobe FrameMaker, Microsoft Word, Adobe Acrobat                                   |
+| **Content Management & Collaboration** | Atlassian Jira, Confluence, WordPress, Ghost, OneDrive, SharePoint, Microsoft Teams |
+| **Multimedia & E‑Learning**            | Adobe Captivate                                                                   |
+| **Graphic & Visual Asset Design**      | Adobe Photoshop, Adobe Illustrator                                                |
