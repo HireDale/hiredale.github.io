@@ -12,7 +12,7 @@ Technical writing is essential to effectively teach readers about a given topic.
 
 Adding graphic design to the mix further enhances the learning material by offering visual aid, quick summaries, and infographics. Key visuals can help reinforce the necessary concepts, making them easier to understand and remember. This combination ensures a comprehensive and engaging learning experience for all types of learners, enhancing retention of the subject matter.
 
-## ** A HISTORY OF REMOTE WORK**
+## **A HISTORY OF REMOTE WORK**
 ---
 
 For more than a decade, I have delivered high‑impact technical documentation and visual content for teams across North America, Europe, and the Middle East — all in fully remote, graveyard‑shift roles. This schedule has demanded exceptional self‑management, cross‑time‑zone collaboration, and consistent delivery under tight release timelines.
