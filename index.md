@@ -27,7 +27,7 @@ I have profound respect for the role technical documents play in providing essen
 - [**Version History**](/daleydose/release-note-version-history)  
   View a complete archive of past releases, including feature additions, changes, and resolved issues.
 
-![Daley Dose banner](daleydose/assets/images/daley-dose-main-footer.png)  
+
 ## **GET STARTED**
 ---
 To begin, head to the [**Table of Contents**](/table-of-contents).
