@@ -12,10 +12,11 @@ Technical writing is essential to effectively teach readers about a given topic.
 
 Adding graphic design to the mix further enhances the learning material by offering visual aid, quick summaries, and infographics. Key visuals can help reinforce the necessary concepts, making them easier to understand and remember. This combination ensures a comprehensive and engaging learning experience for all types of learners, enhancing retention of the subject matter.
 
-## **A HISTORY OF REMOTE WORK**
+## A HISTORY OF REMOTE WORK
 ---
-Over the years, I have collaborated remotely with global teams, companies, and individual clients. Here, I contributed to technical documentation, support documentation, digital content, and graphic assets tailored for international audiences.
 
-A decade of remote work has honed my skills in time management and workload prioritization. I have learned to prioritize user stories and tasks at the start of every sprint to allocate enough time for research and writing on major projects, while also ensuring that smaller changes still receive thorough documentation. 
+I have spent more than a decade working remotely with global teams, companies, and individual clients. My contributions include technical documentation, support content, digital assets, and graphics designed for international audiences.  
 
-It has also strengthened my ability to work independently without constant supervision, while also still understanding the importance of continuous collaboration to ensure accurate and up-to-date documentation.
+Remote work has strengthened my skills in time management and workload prioritization. At the start of each project or task cycle, I identify the highest‑priority work items and allocate sufficient time for research and writing on major deliverables, while ensuring that smaller updates receive thorough documentation.  
+
+It has also reinforced my ability to work independently without constant oversight, while maintaining the collaborative practices necessary to keep documentation accurate, consistent, and current.
