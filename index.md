@@ -12,6 +12,12 @@ Without direct human assistance, help files and other support documents become t
 
 I have profound respect for the role technical documents play in providing essential assistance. They encourage users to develop better self‑reliance for troubleshooting and enhance independent learning for product use. I also enjoy the cyclical nature of creating, editing, and maintaining documentation with each product update.
 
+## **FEATURED CONTENT**
+---
+
 ## **GET STARTED**
 ---
 To begin, head to the [**Table of Contents**](/table-of-contents).
+
+
+## **APPLICATIONS USED**
