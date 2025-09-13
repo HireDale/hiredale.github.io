@@ -14,3 +14,4 @@ I have profound respect for the role technical documents play in providing essen
 
 ## **GET STARTED**
 ---
+To begin, head to the [**Table of Contents**](/table-of-contents).
