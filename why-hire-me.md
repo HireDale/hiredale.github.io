@@ -21,7 +21,7 @@ Remote work has strengthened my skills in time management and workload prioritiz
 
 It has also reinforced my ability to work independently without constant oversight, while maintaining the collaborative practices necessary to keep documentation accurate, consistent, and current.
 
-### Selected Global Collaborations
+### Notable Work Experience
 ---
 
 - **Change Healthcare / Optum** – Texas, United States – Technical Writer II (Mar 2021 – Apr 2024) – Remote, Graveyard Shift  
