@@ -30,25 +30,30 @@ Texas, United States
 Technical Writer II  
 Mar 2021 – Apr 2024  
 
-Produced dual‑audience help systems for healthcare applications, RESTful API documentation, and company‑wide release notes, aligning deliverables with compliance and release milestones.  
+- Produced dual‑audience help systems for healthcare applications, delivering precise clinical guidance for medical professionals and accessible instructions for patients.  
+- Created and maintained RESTful API documentation to support internal teams and release planning, ensuring compliance and accuracy.  
+- Authored online support materials that improved product adoption and reduced live support demand.  
+- Managed version histories by archiving obsolete documents upon new releases.  
+- Collaborated with developers, designers, QA, and product owners to align documentation with release timelines, feature scope, and regulatory requirements.
+
 
 **Drone Addicts**  
 Ottawa, Canada  
 Technical Writer  
 Nov 2018 – May 2020  
 
-Created hardware‑focused user guides, troubleshooting steps, and visual instructions for consumer drone technology.  
+- Created hardware‑focused user guides, troubleshooting steps, and visual instructions for consumer drone technology.  
 
 **OH5**  
 Ankara, Turkey  
 Technical Content Manager  
 Feb 2014 – Oct 2018  
 
-Managed technical assets, publishing schedules, and instructional content across multiple platforms.  
+- Managed technical assets, publishing schedules, and instructional content across multiple platforms.  
 
 **OH5**  
 Ankara, Turkey  
 Technical Content Writer  
 Apr 2012 – Feb 2014  
 
-Authored tutorials, reviews, and technical content on emerging technologies, consumer electronics, and gaming platforms.  
+- Authored tutorials, reviews, and technical content on emerging technologies, consumer electronics, and gaming platforms.  
