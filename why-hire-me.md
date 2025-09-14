@@ -15,7 +15,7 @@ I approach every project by looking at it from the user’s perspective. I consi
 
 ### **SPECIALIZATION IN HEALTHCARE**
 ---
-My empathic approach to technical writing stems from my days in college. There, I spent my time working on my bachelor's degree in **Nursing**. While nursing itself never appealed to me (I wanted to focus on writing, illustrations, and design), it nevertheless instilled values that I still use to this day.
+My empathic approach to technical writing stems from my days in college. There, I spent my time working on my bachelor's degree in **Nursing**. While the field itself never appealed to me (I wanted to focus on writing, illustrations, and design), it nevertheless instilled values that I still use to this day.
 
 As part of the curriculum, I created pamphlets, programs, and lectures about different healthcare topics. The audiences for these lectures were highly varied, including people of different ages, backgrounds, and health needs. Because of this wide range of audiences, I had to ensure that the materials I was making resonated with their specific recipients. Because each demographic has its own strengths, weaknesses, and attention spans, I had to make sure that the information in my lessons was retained by its audience.
 
