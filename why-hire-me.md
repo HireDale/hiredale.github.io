@@ -21,7 +21,7 @@ Make the documents too complicated, and the help material may end up discouragin
 
 Make the documents too simple, however, and you might alienate the more advanced users. You risk them quickly losing interest because, from their perspective, the guide is beneath them. This, in turn, means that they may not have the complete information about the product.
 
-Good documentation is more than a list of steps. It anticipates questions before they are asked, removes unnecessary complexity, and gives users confidence in what they are doing. My goal is to ensure that the intended audience not only understands the instructions but can also apply them to resolve issues without any added assistance.
+Good documentation is more than a list of steps. It anticipates questions before they are asked, removes unnecessary complexity, and gives users confidence in what they are doing. My goal is to ensure that the intended readers not only understand the instructions but can also apply them to resolve issues without any added assistance.
 
 ### **SPECIALIZATION IN HEALTHCARE**
 ---
