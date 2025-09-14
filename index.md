@@ -38,7 +38,7 @@ A more detailed look at my previous work experiences and what I bring to the tab
 - [**Why Hire Me**](/why-hire-me)  
   Understand my focus on creating end‑user documentation tailored to a specific audience.
 
--[**Work History**](/work-history)
+- [**Work History**](/work-history)
   Read about my work history and specialization in international collaboration.
 
 - [**Work Responsibilities**](/day-to-day)  
