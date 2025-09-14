@@ -16,7 +16,7 @@ Therefore, technical writers must ensure that when customers _do_ open the help 
 
 ## **PRODUCT DOCUMENTATION**
 ---
-Explore sample user guides, release updates, historical changes, and technical references for the fictitious **Daley Dose** application — an online prescription service I created for technical portfolio purposes.
+The following are sample end-user documentation, release notes, and technical references for the fictitious **Daley Dose** application — an online prescription service I created for technical portfolio purposes.
 
 - [**Product Overview**](https://hiredale.github.io/daleydose/)  
   Open the Daley Dose central hub. This has been designed to simulate an actual product. Here, you can view its main features, navigation, and available resources.
@@ -33,13 +33,13 @@ Explore sample user guides, release updates, historical changes, and technical r
 
 ## **ABOUT MY WORK**
 ---
-A more detailed look on my previous work experience and what I bring to the table.
+A more detailed look on my previous work experiences and what I bring to the table.
 
 - [**Why Hire Me**](/why-hire-me)  
-  Understand my focus on creating clear, empathetic end‑user documentation tailored to the needs and perspectives of the intended audience.
+  Understand my focus on creating end‑user documentation tailored for a specific audience.
 
 - [**Work Responsibilities**](/day-to-day)  
-  See the day‑to‑day tasks, processes, and collaborative practices that ensure my documentation is accurate, consistent, and aligned with project goals.
+  See the day‑to‑day tasks, processes, and collaborative practices I perform during the document creation and management process.
 
 
 
