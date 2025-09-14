@@ -21,11 +21,12 @@ Make the documents too complicated, and the help material may end up discouragin
 
 Make the documents too simple, however, and you might alienate the more advanced users. You risk them quickly losing interest because, from their perspective, the guide is beneath them. This, in turn, means that they may not have the complete information about the product.
 
-Good documentation is more than a list of steps. It anticipates questions before they are asked, removes unnecessary complexity, and gives users confidence in what they are doing. My goal is to ensure that the intended readers not only understand the instructions but can also apply them to resolve issues without any added assistance.
+Good documentation is more than a list of steps and interface details. It anticipates questions before they are asked, removes unnecessary complexity, and gives users confidence in what they are doing. My goal is to ensure that the intended readers not only understand the instructions, but can also apply them to resolve issues without relying on outside help, including IT or customer service.
 
 ### **SPECIALIZATION IN HEALTHCARE**
 ---
+My empathic approach to technical writing stems from my days in college. There, I spent my time working on my bachelor's degree in **Nursing**. While nursing itself never appealed to me (I wanted to focus on writing, illustrations, and design), it nevertheless instilled values that I still use to this day.
 
-My empathic approach to technical writing comes from a deeply rooted place. I spent my college days studying for my bachelor's degree in Nursing. While nursing itself never appealed to me (I wanted to focus on writing, illustrations, and design), it instilled values that I still use to this day.
+As part of the curriculum, I created pamphlets, programs, and lectures about different healthcare topics. The audiences for these lectures were highly varied, including people of different ages, backgrounds, and health needs. Because of this wide range of audiences, I had to ensure that the materials I was making resonated with their specific recipients. Because each demographic has its own strengths, weaknesses, and attention spans, I had to make sure that the information in my lessons was retained by its audience.
 
-Back then I had to create pamphlets, programs, and lectures about medical topics. The audience for these lectures varied from children, teens, women of child-rearing age, and the elderly. There it was important to put the audience first when creating the educational materials.
+My background in Nursing also gave me an insider look at how hospitals, clinics, pharmacies, and health centers worked from both the patient-facing side and the financial side of things like insurance and fees.
