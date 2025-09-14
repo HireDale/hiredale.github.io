@@ -16,7 +16,7 @@ Therefore, technical writers must ensure that when customers _do_ open the help 
 
 ## **PRODUCT DOCUMENTATION**
 ---
-The following are sample user guides, release notes, and technical references for the **Daley Dose** application — an online prescription-based application I created as a concept project for technical portfolio purposes.
+The following are sample user guides, release notes, and technical references for the **Daley Dose** application — an application I created as a concept project for technical portfolio purposes.
 
 - [**Product Overview**](https://hiredale.github.io/daleydose/)  
   Open the Daley Dose central hub, designed to simulate a real subscription‑based application's landing page. Use this hub to explore its main features, navigation, and available resources.
