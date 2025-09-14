@@ -14,37 +14,38 @@ I have profound respect for the role technical documents play. They empower user
 
 Therefore, technical writers must ensure that when customers _do_ open product documentation, they can quickly find the solution to their question. The answer must be readily available, easy to locate, and kept up to date with the current product. It must also be simple enough for beginners to follow while still providing the context needed to address more complex issues.
 
-## **FEATURED CONTENT**
----
 
-- [**Table of Contents**](/table-of-contents)  
-  View a list of documents available in this work portfolio.
+## **PRODUCT DOCUMENTATION**
+---
+Explore sample user guides, release updates, historical changes, and technical references for the fictitious **Daley Dose** application — an online prescription service I created for technical portfolio purposes.
 
 - [**Product Overview**](https://hiredale.github.io/daleydose/)  
-  Open the Daley Dose central hub to explore its main features, navigation, and available resources.
+  Open the Daley Dose central hub. This has been designed to simulate an actual product. Here, you can view its main features, navigation, and available resources.
   
-- [**View the Help Files**](/daleydose/help-files)  
-  Access the Daley Dose Help Files to quickly find step‑by‑step guides, troubleshooting tips, and feature overviews that help you get the most out of the application.
+- [**Help Files**](/daleydose/help-files)  
+  Access the Daley Dose Help Files. This enables users to quickly find reference guides and step‑by‑step tutorials for the application.
 
-- [**Release Notes**](/daleydose/release-notes-v1.4)  
-  Review the latest updates, enhancements, and fixes in the Daley Dose application.
+- [**v1.4 Release Notes**](/daleydose/release-notes-v1.4)  
+  Review the latest updates, enhancements, and fixes included in version 1.4 of the Daley Dose application.
 
 - [**Version History**](/daleydose/release-note-version-history)  
   View a complete archive of past releases, including feature additions, changes, and resolved issues.
 
 
-## **APPLICATIONS USED**
----
-Over the years, I have carried out my technical writing, editing, and content management work using a range of authoring, publishing, collaboration, and design tools.
+## **TROUBLESHOOTING GUIDES**
+Learn how to diagnose and resolve common hardware, software, and operating system issues — from startup errors to connectivity problems.
 
+## **USER REVIEW GUIDES**
+Read in‑depth reviews and evaluations of games, focusing on gameplay experience, performance, usability, and overall value from the end‑user’s perspective.
 
-| Category                              | Tools / Platforms                                                                 |
-|---------------------------------------|------------------------------------------------------------------------------------|
-| **Help File & Documentation Authoring** | Adobe RoboHelp, MadCap Flare, Microsoft Word, Adobe FrameMaker, Atlassian Confluence, WordPress, Ghost |
-| **Release Notes & Document Publishing** | Adobe FrameMaker, Microsoft Word, Adobe Acrobat                                   |
-| **Content Management & Collaboration** | Atlassian Jira, Confluence, WordPress, Ghost, OneDrive, SharePoint, Microsoft Teams |
-| **Multimedia & E‑Learning**            | Adobe Captivate                                                                   |
-| **Graphic & Visual Asset Design**      | Adobe Photoshop, Adobe Illustrator                                                |
+## **ABOUT MY WORK**
+Learn more about my professional approach, core strengths, and the responsibilities I handle in my projects.
+
+- [**Why Hire Me**](/why-hire-me)  
+  Understand my focus on creating clear, empathetic end‑user documentation tailored to the needs and perspectives of the intended audience.
+
+- [**Work Responsibilities**](/day-to-day)  
+  See the day‑to‑day tasks, processes, and collaborative practices that ensure my documentation is accurate, consistent, and aligned with project goals.
 
 
 
