@@ -23,23 +23,18 @@ Explore sample user guides, release updates, historical changes, and technical r
   Open the Daley Dose central hub. This has been designed to simulate an actual product. Here, you can view its main features, navigation, and available resources.
   
 - [**Help Files**](/daleydose/help-files)  
-  Access the Daley Dose Help Files. This enables users to quickly find reference guides and step‑by‑step tutorials for the application.
+  Access the Daley Dose Help Files — an end-user documentation sample that enables users to quickly find reference guides and step-by-step tutorials for the application.
 
 - [**v1.4 Release Notes**](/daleydose/release-notes-v1.4)  
-  Review the latest updates, enhancements, and fixes included in version 1.4 of the Daley Dose application.
+  Review the updates and fixes included in the latest version of the Daley Dose application.
 
 - [**Version History**](/daleydose/release-note-version-history)  
-  View a complete archive of past releases, including feature additions, changes, and resolved issues.
+  View a complete archive of past releases for the Daley Dose application.
 
-
-## **TROUBLESHOOTING GUIDES**
-Learn how to diagnose and resolve common hardware, software, and operating system issues — from startup errors to connectivity problems.
-
-## **USER REVIEW GUIDES**
-Read in‑depth reviews and evaluations of games, focusing on gameplay experience, performance, usability, and overall value from the end‑user’s perspective.
 
 ## **ABOUT MY WORK**
-Learn more about my professional approach, core strengths, and the responsibilities I handle in my projects.
+---
+A more detailed look on my previous work experience and what I bring to the table.
 
 - [**Why Hire Me**](/why-hire-me)  
   Understand my focus on creating clear, empathetic end‑user documentation tailored to the needs and perspectives of the intended audience.
