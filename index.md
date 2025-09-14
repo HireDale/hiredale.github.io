@@ -8,35 +8,35 @@ theme: default
 ---
 **The need to understand is universal.**
 
-Without direct human assistance, help files and other support documents become the next best resource for understanding a product's functions and features, as well as finding solutions to problems encountered. Because of this, it is crucial to keep them comprehensive, up-to-date, and easy to follow for both new and experienced users.
+Without direct human assistance, help files and other support documents become the next best resource for understanding a product's functions and features, as well as finding solutions to problems encountered. Because of this, it is crucial to keep them comprehensive, up to date, and easy to follow for both new and experienced users.
 
-I have profound respect for the role end-user documentation plays in product support. They empower users to resolve issues independently, without needing to contact IT or customer support. Clear, up-to-date content saves time and resources — for both the customer and the company itself. The way I see it, help files and other support documents are like dictionaries. People already have a specific question in mind before opening them. Dictionaries, while holding a vast amount of information, are never read cover to cover for the sheer enjoyment of it.
+I have profound respect for the role end‑user documentation plays in product support. They empower users to resolve issues independently, without needing to contact IT or customer support. Effective documentation saves time and resources — for both the customer and the company itself. The way I see it, help files and other support documents are like dictionaries. People already have a specific question in mind before opening them. Dictionaries, while holding a vast amount of information, are never read cover to cover for the sheer enjoyment of it.
 
 Therefore, technical writers must ensure that when customers _do_ open the help files, they can quickly find the solution to their question. The answer must be readily available, easy to locate, and kept up to date with the current product. It must also be simple enough for beginners to follow, while still providing the context needed to address more complex issues.
 
 ## **PRODUCT DOCUMENTATION**
 ---
-The following are sample end-user documentation, release notes, and technical references for the fictitious **Daley Dose** application — an online prescription service I created for technical portfolio purposes.
+The following are sample user guides, release notes, and technical references for the **Daley Dose** application — an online prescription service I created as a concept project for technical portfolio purposes.
 
 - [**Product Overview**](https://hiredale.github.io/daleydose/)  
-  Open the Daley Dose central hub. This has been designed to simulate an actual product. Here, you can view its main features, navigation, and available resources.
+  Open the Daley Dose central hub, designed to simulate a real subscription‑based application. Use this hub to explore its main features, navigation, and available resources.
   
 - [**Help Files**](/daleydose/help-files)  
-  Access the Daley Dose Help Files — an end-user documentation sample that enables users to quickly find reference guides and step-by-step tutorials for the application.
+  Access the Daley Dose Help Files — a sample knowledge base designed to help users quickly locate reference guides and step‑by‑step tutorials for the application.
 
 - [**v1.4 Release Notes**](/daleydose/release-notes-v1.4)  
-  Review the updates and fixes included in the latest version of the Daley Dose application.
+  View the updates, enhancements, and fixes in the latest Daley Dose release.
 
 - [**Version History**](/daleydose/release-note-version-history)  
-  View a complete archive of past releases for the Daley Dose application.
+  Browse the complete archive of previous Daley Dose releases.
 
 
 ## **ABOUT MY WORK**
 ---
-A more detailed look on my previous work experiences and what I bring to the table.
+A more detailed look at my previous work experiences and what I bring to the table.
 
 - [**Why Hire Me**](/why-hire-me)  
-  Understand my focus on creating end‑user documentation tailored for a specific audience.
+  Understand my focus on creating end‑user documentation tailored to a specific audience.
 
 - [**Work Responsibilities**](/day-to-day)  
   See the day‑to‑day tasks, processes, and collaborative practices I perform during the document creation and management process.
