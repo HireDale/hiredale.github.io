@@ -7,11 +7,15 @@ layout: default
 ## **WHY HIRE ME**
 ---
 
-My style of technical writing can be summarized in one word: empathy. Documentation should be based on the reader's perspective, not the writer's. I specialize in creating end‑user content tailored specifically for the intended target audience.
+My style of technical writing can be summarized in one word: **empathy**. 
 
-I approach every project by looking into the product from the user’s perspective. I consider their technical background, assess what terminologies would sound too complex, and what instructions require additional information. I try to predict what potential obstacles they will encounter, what paths they will take, and what the user might look up in the documentation. This enables me to craft clear, relevant, and straight-to-the-point help topics. 
+Documentation should be based on the reader's perspective, not the writer's. I specialize in creating end‑user content tailored specifically for the intended target audience.
 
-Technical writing is also about balance. Make the documents too complicated, and it may end up intimidating newer users. Make them too simple, and you might alienate the more advanced users. You risk them quickly losing interest because, from their perspective, the guide is beneath them.
+I approach every project by looking at it from the user’s perspective. I consider their technical background, assess what terminologies would sound complex, and what instructions require additional information. I try to predict potential obstacles users will encounter, what paths they will take, and what they might look up in the documentation. This enables me to craft clear, relevant, and straight-to-the-point help topics. 
+
+Technical writing is also about balance. Make the documents too complicated, and the help material may end up discouraging newer users from solving the problem themselves. Nothing kills interest and initiative more than an intimidating wall of text. When a user deems that the help documents are too complicated, they will pivot strongly to having IT or customer support solve the problem for them. 
+
+Make the documents too simple, however, and you might alienate the more advanced users. You risk them quickly losing interest because, from their perspective, the guide is beneath them. This, in turn, means that they may not have the complete information about the product.
 
 Good documentation is more than a list of steps. It anticipates questions before they are asked, removes unnecessary complexity, and gives the user confidence in what they are doing. My goal is to ensure that the intended audience not only understands the instructions but can apply them successfully in real‑world situations.
 
