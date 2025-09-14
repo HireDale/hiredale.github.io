@@ -16,13 +16,13 @@ Therefore, technical writers must ensure that when customers _do_ open the help 
 
 ## **PRODUCT DOCUMENTATION**
 ---
-The following are sample user guides, release notes, and technical references for the **Daley Dose** application — an online prescription service I created as a concept project for technical portfolio purposes.
+The following are sample user guides, release notes, and technical references for the **Daley Dose** application — an online prescription-based application I created as a concept project for technical portfolio purposes.
 
 - [**Product Overview**](https://hiredale.github.io/daleydose/)  
-  Open the Daley Dose central hub, designed to simulate a real subscription‑based application. Use this hub to explore its main features, navigation, and available resources.
+  Open the Daley Dose central hub, designed to simulate a real subscription‑based application's landing page. Use this hub to explore its main features, navigation, and available resources.
   
 - [**Help Files**](/daleydose/help-files)  
-  Access the Daley Dose Help Files — a sample knowledge base designed to help users quickly locate reference guides and step‑by‑step tutorials for the application.
+  Access the Daley Dose Help Files — a knowledge base designed to help users quickly locate reference guides and step‑by‑step tutorials for the application.
 
 - [**v1.4 Release Notes**](/daleydose/release-notes-v1.4)  
   View the updates, enhancements, and fixes in the latest Daley Dose release.
