@@ -22,7 +22,7 @@ Good documentation is more than a list of steps. It anticipates questions before
 ## **SPECIALIZATION IN HEALTHCARE**
 ---
 
-My empathic approach to technical writing comes from a deeply rooted place.
+My empathic approach to technical writing comes from a deeply rooted place. I spent my college days studying for my Bachelor's Degree in Nursing. While nursing itself never appealed to me (I wanted to focus on writing and design), it instilled values that I still use to this day.
 
 
 ## **A HISTORY OF REMOTE WORK**
