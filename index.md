@@ -18,7 +18,7 @@ Therefore, technical writers must ensure that when customers _do_ open product d
 ---
 
 - [**Table of Contents**](/table-of-contents)  
-  View the complete list of sections and materials included in this work portfolio.
+  View a list of documents available in this work portfolio.
 
 - [**Product Overview**](https://hiredale.github.io/daleydose/)  
   Open the Daley Dose central hub to explore its main features, navigation, and available resources.
