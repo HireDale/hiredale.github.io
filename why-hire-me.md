@@ -20,6 +20,10 @@ Make the documents too simple, however, and you might alienate the more advanced
 Good documentation is more than a list of steps. It anticipates questions before they are asked, removes unnecessary complexity, and gives the user confidence in what they are doing. My goal is to ensure that the intended audience not only understands the instructions but can apply them successfully in real‑world situations.
 
 ## **SPECIALIZATION IN HEALTHCARE**
+---
+
+My empathic approach to technical writing comes from a deeply rooted place.
+
 
 ## **A HISTORY OF REMOTE WORK**
 ---
