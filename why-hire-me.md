@@ -7,11 +7,15 @@ layout: default
 ## **WHY HIRE ME**
 ---
 
-My work is built on a simple principle: documentation should serve the reader, not the writer. I create end‑user documentation that meets people where they are — whether they are first‑time users or experienced professionals — and guide them to their goal without confusion or wasted time.
+My style of technical writing can be summarized in one word: empathy. Documentation should be based on the reader's perspective, not the writer's. I specialize in creating end‑user content tailored specifically for the intended target audience.
 
-I approach every project by stepping into the reader’s perspective. I consider their technical background, their likely pain points, and the context in which they will use the material. This allows me to choose the right level of detail, the right structure, and the right language to make the instructions clear, relevant, and actionable.
+I approach every project by looking into the product from the user’s perspective. I consider their technical background, assess what terminologies would sound too complex, and what instructions require additional information. I try to predict what potential obstacles they will encounter, what paths they will take, and what the user might look up in the documentation. This enables me to craft clear, relevant, and straight-to-the-point help topics. 
+
+Technical writing is also about balance. Make the documents too complicated, and it may end up intimidating newer users. Make them too simple, and you might alienate the more advanced users. You risk them quickly losing interest because, from their perspective, the guide is beneath them.
 
 Good documentation is more than a list of steps. It anticipates questions before they are asked, removes unnecessary complexity, and gives the user confidence in what they are doing. My goal is to ensure that the intended audience not only understands the instructions but can apply them successfully in real‑world situations.
+
+## **SPECIALIZATION IN HEALTHCARE**
 
 ## **A HISTORY OF REMOTE WORK**
 ---
@@ -31,7 +35,7 @@ Texas, United States
 Technical Writer II – Remote (Graveyard Shift)  
 Mar 2021 – Apr 2024  
 
-- Produced dual‑audience help systems for healthcare applications, delivering precise clinical guidance for doctors, nurses, and pharmacists while ensuring accessibility for patients with low technical literacy.  
+- Produced end-user documentation for healthcare applications, delivering precise clinical guidance for doctors, nurses, and pharmacists while ensuring accessibility for patients with low technical literacy.  
 - Created and maintained RESTful API documentation (endpoint definitions, authentication flows, sample payloads) to communicate changes to internal teams and support sprint/release planning.  
 - Authored online support content that improved product adoption and reduced live support demand.  
 - Managed version histories by archiving obsolete documents to designated repository sections upon new releases.  
