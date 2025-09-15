@@ -36,10 +36,10 @@ The following are sample user guides, release notes, and technical references fo
 A more detailed look at my previous work experiences and what I bring to the table.
 
 - [**Why Hire Me**](/why-hire-me)  
-  Understand my priorities and goals when creating end‑user documentation.
+  Understand my method when creating end‑user documentation.
 
 - [**Work History**](/work-history)  
-  Read about my work history and specialization in international collaboration.
+  Read about my work history and specialization.
 
 - [**Work Responsibilities**](/day-to-day)  
-  See the day‑to‑day tasks and collaborative practices I perform during a standard workday.
+  See the tasks I perform during a standard workday.
