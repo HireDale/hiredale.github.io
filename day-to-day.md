@@ -32,10 +32,13 @@ My day-to-day tasks include:
 ## **COLLABORATIVE RESPONSIBILITIES**
 ---
 From experience, technical writing is 50% documentation and 50% collaboration.  
-Without constant communication and feedback from the development team, the current documentation is at risk of being out of date, inaccurate, or incomplete.  
+
+Without constant communication and feedback from the development team, the current documentation is at risk of being out of date, inaccurate, or incomplete. 
+
 The last thing you need to hear upon document release is a team member wanting last-minute changes to the already published work. Therefore, it is necessary to keep the team informed during the entire technical writing process.
 
 During the course of a standard sprint cycle, my team-centric tasks include:  
+
 1. Monitoring the product’s active user stories and attached files in Atlassian Jira, ensuring accurate and up-to-date sources for documentation.  
 2. Consulting with designers, QAs, developers, and product owners through calls or emails to gather information on documentation changes.  
 3. Providing drafts of help file changes and release notes to associated team members using Adobe Acrobat, OneDrive, and SharePoint.  
