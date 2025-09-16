@@ -40,12 +40,19 @@ The last thing you need to hear upon document release is a team member wanting l
 During the course of a standard sprint cycle, my team-centric tasks include:  
 
 1. Monitoring the product’s active user stories and attached files in Atlassian Jira, ensuring accurate and up-to-date sources for documentation.  
+
 2. Consulting with designers, QAs, developers, and product owners through calls or emails to gather information on documentation changes.  
+
 3. Providing drafts of help file changes and release notes to associated team members using Adobe Acrobat, OneDrive, and SharePoint.  
+
 4. Gathering feedback with each user story’s assigned development team members on technical documentation drafts to:  
    • Ensure clarity and accuracy of final documentation  
    • Incorporate their insights to enhance team rapport and lines of communication for future sprints and projects  
+
 5. Acting as a liaison between development team members to resolve conflicts in feedback and ensure consensus for documentation changes.  
+
 6. Escalating issues within the development team hierarchy when a documentation conflict cannot be resolved between QA and developers.  
+
 7. Attending meetings, presentations, and demos with the dev team using MS Teams to discuss changes and progress in the user stories.  
+
 8. Collaborating with fellow writers to critique technical documentation drafts in order to gain a fresh perspective.
