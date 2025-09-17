@@ -10,7 +10,9 @@ theme: default
 
 Without direct human assistance, help files and other support documents become the next best resource for understanding a product's functions and features, as well as finding solutions to problems encountered. Because of this, it is crucial to keep them comprehensive, up to date, and easy to follow for both new and experienced users.
 
-I have profound respect for the role end‑user documentation plays in product support. They empower users to resolve issues independently, without needing to contact IT or customer support. Effective documentation saves time and resources — for both the customer and the company itself. The way I see it, help files and other support documents are like dictionaries. People already have a specific question in mind before opening them. Dictionaries, while holding a vast amount of information, are never read cover to cover for the sheer enjoyment of it.
+I have profound respect for the role end‑user documentation plays in product support. They empower users to resolve issues independently, without needing to contact IT or customer support. Effective documentation saves time and resources — for both the customer and the company itself. 
+
+The way I see it, help files and other support documents are like dictionaries. People already have a specific question in mind before opening them. Dictionaries, while holding a vast amount of information, are never read cover to cover for the sheer enjoyment of it.
 
 Therefore, technical writers must ensure that when customers _do_ open the help files, they can quickly find the solution to their question. The answer must be readily available, easy to locate, and kept up to date with the current product. It must also be simple enough for beginners to follow, while still providing the context needed to address more complex issues.
 
