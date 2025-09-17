@@ -4,7 +4,7 @@ description: ""
 layout: default
 ---
 
-## **WHY HIRE ME**
+# **WHY HIRE ME**
 ---
 
 The foundation of my technical writing can be summarized in one word: **empathy**. 
