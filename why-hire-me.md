@@ -13,7 +13,7 @@ Documentation should be based on the reader's perspective, not the writer's. I s
 
 I approach every project by looking at it from the user’s perspective. I consider their technical background, assess what terminologies would sound complex, and what instructions require additional information. I try to predict potential obstacles users will encounter, what paths they will take, and what they might look up in the documentation. This enables me to craft clear, relevant, and straight-to-the-point help topics. 
 
-### **SPECIALIZATION IN HEALTHCARE**
+## **SPECIALIZATION IN HEALTHCARE**
 ---
 My empathic approach to technical writing stems from my days in college. There, I spent my time working on my bachelor's degree in **Nursing**. While the field itself never appealed to me (I wanted to focus on writing, illustrations, and design), it nevertheless instilled values that I still use to this day.
 
