@@ -10,28 +10,30 @@ Creating and managing technical documentation for a product can be very cyclical
 
 My day-to-day tasks include:  
 1. Creating technical documents such as:  
-• User manuals and instructional guides for products using Adobe RoboHelp, MadCap Flare, and MS Word  
-• Online help files and technical support documents using Atlassian Confluence, WordPress, and Ghost  
-• Version update notes and archived release notes using Adobe FrameMaker, MS Word, and Adobe Acrobat  
+• User manuals and instructional guides for products using **Adobe RoboHelp**, **MadCap Flare**, and **MS Word**  
+• Web-based help and technical support documents using Content Management Systems (CMS) including **Atlassian Confluence**, **WordPress**, and **Ghost** 
+• Version update notes and archived release notes using **Adobe FrameMaker**, **MS Word**, and **Adobe Acrobat**
 
-2. Proofreading and editing existing technical documents to match design and formatting styles based on the company’s established guidelines.  
+2. Maintaining documentation repositories for knowledge bases in **GitHub**   
 
-3. Updating the following based on changes made during the sprint:  
+3. Proofreading and editing existing technical documents to match design and formatting styles based on the company’s established guidelines.  
+
+4. Updating the following based on changes made during the sprint:  
 • Existing technical guides and procedures to match the product’s latest updates and changes  
 • Existing screenshots and field/button definitions to match the product’s latest user interface changes  
 • Existing assets to match the company’s branding changes  
 
-4. Accessing the pre-release version of the application to directly view, research, learn firsthand, and document the version’s changes.  
+5. Accessing the **pre-release version** of the application to directly view, research, learn firsthand, and document the version’s pending changes.  
 
-5. Researching and simplifying technical terms and processes to make instructions clear, detailed, and accessible for the target audience—both for beginners and advanced users.  
+6. Researching and simplifying technical terms and processes to make instructions clear, detailed, and accessible for the target audience—both for beginners and advanced users.  
 
-6. Creating and managing tutorial clips using Adobe Captivate.  
+7. Creating and managing tutorial clips using **Adobe Captivate**.  
 
-7. Creating and managing supplemental visuals, art, and instructional graphics using Adobe Photoshop and Adobe Illustrator.
+8. Creating and managing supplemental visuals, design, and instructional graphics using **Adobe Photoshop** and **Adobe Illustrator**.
 
 ## **COLLABORATIVE RESPONSIBILITIES**
 ---
-From experience, technical writing is 50% documentation and 50% collaboration.  
+From experience, technical writing is **50% documentation** and **50% collaboration**.  
 
 Without constant communication and feedback from the development team, the current documentation is at risk of being out of date, inaccurate, or incomplete. 
 
@@ -39,9 +41,9 @@ The last thing you need to hear upon document release is a team member wanting l
 
 During the course of a standard sprint cycle, my team-centric tasks include:  
 
-1. Monitoring the product’s active user stories and attached files in Atlassian Jira, ensuring accurate and up-to-date sources for documentation.  
+1. Monitoring the product’s active user stories and attached files in **Atlassian Jira**, ensuring accurate and up-to-date sources for documentation.  
 
-2. Consulting with designers, QAs, developers, and product owners through calls or emails to gather information on documentation changes.  
+2. Consulting with designers, QAs, developers, and product owners through calls and emails to gather information on documentation changes.  
 
 3. Providing drafts of help file changes and release notes to associated team members using Adobe Acrobat, OneDrive, and SharePoint.  
 
