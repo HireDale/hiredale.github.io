@@ -4,7 +4,7 @@ description: ""
 layout: default
 ---
 
-## **DAY TO DAY RESPONSIBILITIES**
+# **DAY TO DAY RESPONSIBILITIES**
 ---
 Creating and managing technical documentation for a product can be very cyclical, with new changes coming in every sprint. Over time, it becomes a constant loop of research, documentation, and publication—with an ever-growing list of tasks for the next product release.
 
