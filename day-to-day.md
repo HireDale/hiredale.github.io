@@ -10,7 +10,7 @@ Creating and managing technical documentation for a product can be very cyclical
 
 My day-to-day tasks include:  
 
-1. Creating technical documents such as:  
+1. Creating and managing technical documents such as:  
    • Product end-user documentation using **Adobe RoboHelp**, **MadCap Flare**, and **MS Word**  
    • Web-based help using Content Management Systems (CMS) including **Confluence**, **WordPress**, and **Ghost**  
    • Version release notes using **Adobe FrameMaker**, **MS Word**, and **Adobe Acrobat**
@@ -26,7 +26,7 @@ My day-to-day tasks include:
 
 5. Accessing the **pre-release version** of the application to directly view, research, learn firsthand, and document the version’s pending changes.  
 
-6. Researching and simplifying technical terms and processes to make instructions clear, detailed, and accessible for the target audience—both for beginners and advanced users.  
+6. Researching and simplifying technical terms and processes to make instructions clear, detailed, and accessible for the target audience.  
 
 7. Creating and managing tutorial clips using **Adobe Captivate**.  
 
