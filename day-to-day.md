@@ -9,9 +9,13 @@ layout: default
 Creating and managing technical documentation for a product can be very cyclical, with new changes coming in every sprint. Over time, it becomes a constant loop of research, documentation, and publication—with an ever-growing list of tasks for the next product release.
 
 My day-to-day tasks include:  
+
 1. Creating technical documents such as:  
+
 • User manuals and instructional guides for products using **Adobe RoboHelp**, **MadCap Flare**, and **MS Word**  
-• Web-based help and technical support documents using Content Management Systems (CMS) including **Atlassian Confluence**, **WordPress**, and **Ghost** 
+
+• Web-based help and technical support documents using Content Management Systems (CMS) including **Atlassian Confluence**, **WordPress**, and **Ghost**  
+
 • Version update notes and archived release notes using **Adobe FrameMaker**, **MS Word**, and **Adobe Acrobat**
 
 2. Maintaining documentation repositories for knowledge bases in **GitHub**   
