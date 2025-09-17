@@ -11,11 +11,11 @@ Creating and managing technical documentation for a product can be very cyclical
 My day-to-day tasks include:  
 
 1. Creating technical documents such as:  
-   • User manuals and instructional guides for products using **Adobe RoboHelp**, **MadCap Flare**, and **MS Word**  
-   • Web-based help and technical support documents using Content Management Systems (CMS) including **Atlassian Confluence**, **WordPress**, and **Ghost**  
-   • Version update notes and archived release notes using **Adobe FrameMaker**, **MS Word**, and **Adobe Acrobat**
+   • Product end-user documentation using **Adobe RoboHelp**, **MadCap Flare**, and **MS Word**  
+   • Web-based help using Content Management Systems (CMS) including **Confluence**, **WordPress**, and **Ghost**  
+   • Version release notes using **Adobe FrameMaker**, **MS Word**, and **Adobe Acrobat**
 
-2. Maintaining documentation repositories for knowledge bases in **GitHub**   
+2. Maintaining documentation repositories for knowledge bases in **GitHub**.   
 
 3. Proofreading and editing existing technical documents to match design and formatting styles based on the company’s established guidelines.  
 
@@ -42,7 +42,7 @@ The last thing you need to hear upon document release is a team member wanting l
 
 During the course of a standard sprint cycle, my team-centric tasks include:  
 
-1. Monitoring the product’s active user stories and attached files in **Atlassian Jira**, ensuring accurate and up-to-date sources for documentation.  
+1. Monitoring the product’s active user stories and attached files in **Jira**, ensuring accurate and up-to-date sources for documentation.  
 
 2. Consulting with designers, QAs, developers, and product owners through calls and emails to gather information on documentation changes.  
 
