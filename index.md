@@ -28,7 +28,7 @@ The following are sample user guides, release notes, and technical references fo
   Access the Daley Dose Help Files — a knowledge base designed to help users quickly locate reference guides and step‑by‑step tutorials for the application.
 
 - [**Release Notes**](/daleydose/release-notes-v1.5)  
-  View the updates, enhancements, and fixes in the latest Daley Dose release.
+  Review the updates, enhancements, and fixes included in the latest version of the Daley Dose application.
 
 - [**Version History**](/daleydose/release-note-version-history)  
   Browse the complete archive of previous Daley Dose releases.
