@@ -4,9 +4,6 @@ description: ""
 theme: default
 ---
 
-## **END-USER DOCUMENTATION**
----
-
 The need to understand is **universal**.
 
 Without direct human assistance, help files and other support documents become the next best resource for understanding a product's functions and features, as well as finding solutions to problems encountered. Because of this, it is crucial to keep them comprehensive, up to date, and easy to follow for both new and experienced users.
