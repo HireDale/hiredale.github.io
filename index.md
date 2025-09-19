@@ -17,7 +17,7 @@ The way I see it, help files and other support documents are like dictionaries. 
 
 Therefore, technical writers must ensure that when customers _do_ open the help files, they can quickly find the solution to their question. The answer must be readily available, easy to locate, and kept up to date with the current product. It must also be simple enough for beginners to follow, while still providing the context needed to address more complex issues.
 
-## **FEATURED WORK SAMPLES**
+## **FEATURED SAMPLES**
 ---
 The following are sample user guides, release notes, and technical references for the **Daley Dose** application — an application I created as a concept project for technical portfolio purposes.
 
@@ -34,7 +34,7 @@ The following are sample user guides, release notes, and technical references fo
   Browse the complete archive of previous Daley Dose releases.
 
 
-## **EXPERIENCE OVERVIEW**
+## **WORK OVERVIEW**
 ---
 A more detailed look at my previous work experiences and what I bring to the table.
 
