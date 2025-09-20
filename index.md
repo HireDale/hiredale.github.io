@@ -34,7 +34,7 @@ The following are sample user guides, release notes, and technical references fo
   Browse the complete archive of previous Daley Dose releases.
 
 
-## **WORK EXPERIENCE**
+## **BACKGROUND**
 ---
 A more detailed look at my previous work and what I bring to the table.
 
