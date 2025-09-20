@@ -36,7 +36,7 @@ The following are sample user guides, release notes, and technical references fo
 
 ## **BACKGROUND**
 ---
-A more detailed look at my previous work and what I bring to the table.
+A more detailed look at my previous work experience and what I bring to the table.
 
 - [**Why Hire Me**](/why-hire-me)  
   Understand my method when creating end‑user documentation.
