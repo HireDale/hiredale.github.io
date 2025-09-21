@@ -13,10 +13,6 @@ Without direct human assistance, help files and other support documents become t
 
 I have profound respect for the role end‑user documentation plays in product support. They empower users to resolve issues independently, without needing to contact IT or customer support. Effective documentation saves time and resources — for both the customer and the company itself. 
 
-The way I see it, help files and other support documents are like dictionaries. People already have a specific question in mind before opening them. Dictionaries, while holding a vast amount of information, are never read cover to cover for the sheer enjoyment of it.
-
-Therefore, technical writers must ensure that when customers _do_ open the help files, they can quickly find the solution to their question. The answer must be readily available, easy to locate, and kept up to date with the current product. It must also be simple enough for beginners to follow, while still providing the context needed to address more complex issues.
-
 ## **FEATURED**
 ---
 The following are sample user guides, release notes, and technical references for the **Daley Dose** application — an application I created as a concept project for technical portfolio purposes.
