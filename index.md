@@ -42,3 +42,11 @@ A more detailed look at my previous work experience and what I bring to the tabl
 
 - [**Work Responsibilities**](/day-to-day)  
   See the tasks I perform during a standard workday.
+
+## **HIRE ME**
+---
+Interested in working together? Feel free to reach out for professional inquiries, career opportunities, or questions about my work.
+
+- [**LinkedIn Profile**](https://www.linkedin.com/in/dalealbertgaddi/)  
+  My professional profile, including work experience, qualifications, and career background.
+  
