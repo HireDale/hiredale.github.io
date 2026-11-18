@@ -16,7 +16,7 @@ A collection of sample documents and technical references showcasing my approach
 | **Consumer Release Notes** | Communicates user-facing updates, highlighting new features, improvements, changes, and bug fixes in an accessible format. |
 | [**Version History**](https://github.com/HireDale/hiredale.github.io/blob/main/daleydose/release-note-version-history) | Maintains a chronological archive of previous software releases, providing a reference for tracking version changes over time. |
 
-# **OVERVIEW**
+## **OVERVIEW**
 ---
 
 The need to understand is **universal**.
