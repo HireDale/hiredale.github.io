@@ -13,7 +13,9 @@ Without direct assistance, help files and other support documents become the nex
 
 I have profound respect for the role end‑user documentation plays in product support. They empower users to resolve issues independently, without needing to contact IT or customer support. Effective documentation saves time and resources — for both the customer and the company itself. 
 
-You need someone on your team that understands and appreciates the value of well-maintained documentation. That is where I come in. Hire me. **Hire Dale**.
+You need someone on your team that understands and appreciates the value of well-maintained documentation. 
+
+That is where I come in. Hire me. **Hire Dale**.
 
 ## **FEATURED**
 ---
