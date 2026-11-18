@@ -17,7 +17,7 @@ I have profound respect for the role end‑user documentation plays in product s
 ---
 The following are sample user guides, release notes, and technical references for the **Daley Dose** application — an application I created as a concept project for technical portfolio purposes.
 
-| Resource | Description |
+| Documentation | Description |
 |---|---|
 | [**Product Overview**](https://hiredale.github.io/daleydose/) | Explore the Daley Dose central hub, designed to simulate a real subscription-based application's landing page. Discover its main features, navigation, and available resources. |
 | [**Help Files**](https://github.com/HireDale/hiredale.github.io/blob/main/daleydose/help-files) | Browse the Daley Dose knowledge base for reference guides and step-by-step application tutorials. |
