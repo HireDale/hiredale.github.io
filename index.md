@@ -15,7 +15,7 @@ I have profound respect for the role end‑user documentation plays in product s
 
 ## **FEATURED**
 ---
-The following are sample user guides, release notes, and technical references for the **Daley Dose** application — an application I created as a concept project for technical portfolio purposes.
+A collection of sample documents and technical references showcasing my approach to technical writing, content organization, and end-user support.
 
 | Documentation | Description |
 |---|---|
