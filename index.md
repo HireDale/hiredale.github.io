@@ -4,7 +4,7 @@ description: ""
 theme: default
 ---
 
-## **FEATURED**
+## **WORK SAMPLES**
 ---
 A collection of sample documents and technical references showcasing my approach to technical writing, content organization, and end-user support.
 
@@ -16,7 +16,7 @@ A collection of sample documents and technical references showcasing my approach
 | **Consumer Release Notes** | Communicates user-facing updates, highlighting new features, improvements, changes, and bug fixes in an accessible format. |
 | [**Version History**](https://github.com/HireDale/hiredale.github.io/blob/main/daleydose/release-note-version-history) | Maintains a chronological archive of previous software releases, providing a reference for tracking version changes over time. |
 
-## **OVERVIEW**
+## **ABOUT MY WORK**
 ---
 
 The need to understand is **universal**.
@@ -27,7 +27,7 @@ I have profound respect for the role end‑user documentation plays in product s
 
 You need someone on your team that understands and appreciates the value of well-maintained documentation. That is where I come in. Hire me. Hire Dale.
 
-## **BACKGROUND**
+## **ABOUT ME**
 ---
 A more detailed look at my previous work experience and what I bring to the table.
 
