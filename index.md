@@ -17,17 +17,13 @@ I have profound respect for the role end‑user documentation plays in product s
 ---
 The following are sample user guides, release notes, and technical references for the **Daley Dose** application — an application I created as a concept project for technical portfolio purposes.
 
-- [**Product Overview**](https://hiredale.github.io/daleydose/)\
-  &#x20;Open the Daley Dose central hub, designed to simulate a real subscription‑based application's landing page. Use this hub to explore its main features, navigation, and available resources.
-- [**Help Files**](https://github.com/HireDale/hiredale.github.io/blob/main/daleydose/help-files)\
-  &#x20;Access the Daley Dose Help Files — a knowledge base designed to help users quickly locate reference guides and step‑by‑step tutorials for the application.
-- **Release Notes**
-  - [**Enterprise Release Notes**](https://github.com/HireDale/hiredale.github.io/blob/main/daleydose/release-notes-v1.5)\
-    &#x20;Review updates, enhancements, and fixes documented for internal stakeholders and development teams, with references to corresponding development tasks.
-  - **Consumer Release Notes**\
-    &#x20;Explore user-facing update documentation that communicates new features, gameplay changes, improvements, and fixes.
-- [**Version History**](https://github.com/HireDale/hiredale.github.io/blob/main/daleydose/release-note-version-history)\
-  &#x20;Browse the complete archive of previous Daley Dose releases.
+| Resource | Description |
+|---|---|
+| [**Product Overview**](https://hiredale.github.io/daleydose/) | Explore the Daley Dose central hub, designed to simulate a real subscription-based application's landing page. Discover its main features, navigation, and available resources. |
+| [**Help Files**](https://github.com/HireDale/hiredale.github.io/blob/main/daleydose/help-files) | Browse the Daley Dose knowledge base for reference guides and step-by-step application tutorials. |
+| [**Enterprise Release Notes**](https://github.com/HireDale/hiredale.github.io/blob/main/daleydose/release-notes-v1.5) | Review updates, enhancements, and fixes for internal stakeholders and development teams, including references to corresponding development tasks. |
+| **Consumer Release Notes** | Explore user-facing updates covering new features, gameplay changes, improvements, and fixes. |
+| [**Version History**](https://github.com/HireDale/hiredale.github.io/blob/main/daleydose/release-note-version-history) | Browse the complete archive of previous Daley Dose releases. |
 
 
 ## **BACKGROUND**
