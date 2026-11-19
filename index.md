@@ -13,7 +13,7 @@ A collection of sample documents and technical references showcasing my approach
 | [**Product Overview**](https://hiredale.github.io/daleydose/) | Introduces an application's purpose, core features, navigation, and available resources through a centralized landing page. |
 | [**Help Files**](https://github.com/HireDale/hiredale.github.io/blob/main/daleydose/help-files) | Provides a centralized knowledge base of reference guides, feature explanations, and step-by-step tutorials to help users navigate and operate an application. |
 | [**Enterprise Release Notes**](https://github.com/HireDale/hiredale.github.io/blob/main/daleydose/release-notes-v1.5) | Documents updates, enhancements, and fixes for internal stakeholders and development teams, including references to corresponding development tasks. |
-| **Consumer Release Notes** | Communicates user-facing updates, highlighting new features, improvements, changes, and bug fixes in an accessible format. |
+| [**Consumer Release Notes**](https://github.com/HireDale/hiredale.github.io/blob/main/daleydose/release-customer-notes-v1.5) | Communicates user-facing updates, highlighting new features, improvements, changes, and bug fixes in an accessible format. |
 | [**Version History**](https://github.com/HireDale/hiredale.github.io/blob/main/daleydose/release-note-version-history) | Maintains a chronological archive of previous software releases, providing a reference for tracking version changes over time. |
 
 ## **ABOUT MY WORK**
