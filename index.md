@@ -14,10 +14,10 @@ A collection of sample documents and technical references showcasing my approach
 - [**Help Files**](https://hiredale.github.io/daleydose/help-files)  
 &#x20; View a centralized knowledge base of reference guides, window definitions, and step-by-step tutorials to help users navigate and operate a sample application.
 
-- [**Enterprise Release Notes**](https://hiredale.github.io/daleydose/release-internal-notes-1.5)  
+- [**Internal Release Notes**](https://hiredale.github.io/daleydose/release-note-internal-1.5)  
 &#x20; Documents updates, enhancements, and fixes for internal stakeholders and development teams, including references to corresponding development tasks.
 
-- [**Consumer Release Notes**](https://hiredale.github.io/daleydose/release-enduser-notes-1.5)  
+- [**Costumer Release Notes**](https://hiredale.github.io/daleydose/release-note-customer-1.5)  
 &#x20; Communicates user-facing updates, highlighting new features, improvements, changes, and bug fixes in an accessible format.
 
 - [**Version History**](https://hiredale.github.io/daleydose/release-note-version-history)  
