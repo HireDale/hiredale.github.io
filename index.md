@@ -6,7 +6,7 @@ theme: default
 
 ## **WORK PORTFOLIO**
 ---
-A collection of sample documents and technical references showcasing my approach to technical writing, content organization, and end-user support.
+Browse sample documents and technical references showcasing my approach to technical writing, content organization, and end-user support.
 
 - [**Product Overview**](https://hiredale.github.io/daleydose/)  
 &#x20; View an introduction to a sample application's purpose, core features, navigation, and available resources through a centralized landing page.
