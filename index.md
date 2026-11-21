@@ -9,23 +9,18 @@ theme: default
 A collection of sample documents and technical references showcasing my approach to technical writing, content organization, and end-user support.
 
 - [**Product Overview**](https://hiredale.github.io/daleydose/)
-
   View an introduction to a sample application's purpose, core features, navigation, and available resources through a centralized landing page.
 
 - [**Help Files**](https://hiredale.github.io/daleydose/help-files)
-
   View a centralized knowledge base of reference guides, window definitions, and step-by-step tutorials to help users navigate and operate a sample application.
 
 - [**Enterprise Release Notes**](https://hiredale.github.io/daleydose/release-internal-notes-1.5)
-
   Documents updates, enhancements, and fixes for internal stakeholders and development teams, including references to corresponding development tasks.
 
 - [**Consumer Release Notes**](https://hiredale.github.io/daleydose/release-enduser-notes-1.5)
-
   Communicates user-facing updates, highlighting new features, improvements, changes, and bug fixes in an accessible format.
 
 - [**Version History**](https://hiredale.github.io/daleydose/release-note-version-history)
-
   View a chronological archive of previous software releases, providing a reference for tracking version changes over time.
 
 ## **ABOUT MY WORK**
