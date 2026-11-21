@@ -17,7 +17,7 @@ A collection of sample documents and technical references showcasing my approach
 - [**Internal Release Notes**](https://hiredale.github.io/daleydose/release-note-internal-1.5)  
 &#x20; Documents updates, enhancements, and fixes for internal stakeholders and development teams, including references to corresponding development tasks.
 
-- [**Costumer Release Notes**](https://hiredale.github.io/daleydose/release-note-customer-1.5)  
+- [**Customer Release Notes**](https://hiredale.github.io/daleydose/release-note-customer-1.5)  
 &#x20; Communicates user-facing updates, highlighting new features, improvements, changes, and bug fixes in an accessible format.
 
 - [**Version History**](https://hiredale.github.io/daleydose/release-note-version-history)  
