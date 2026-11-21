@@ -23,17 +23,6 @@ A collection of sample documents and technical references showcasing my approach
 - [**Version History**](https://hiredale.github.io/daleydose/release-note-version-history)  
 &#x20; View a chronological archive of previous software releases, providing a reference for tracking version changes over time.
 
-## **ABOUT MY WORK**
----
-
-The need to understand is **universal**.
-
-Without direct assistance, help files and other support documents become the next best resource for understanding a product's functions and features, as well as finding solutions to problems encountered. Because of this, it is crucial to keep them comprehensive, up to date, and easy to follow for both new and experienced users.
-
-I have profound respect for the role end‑user documentation plays in product support. They empower users to resolve issues independently, without needing to contact IT or customer support. Effective documentation saves time and resources — for both the customer and the company itself.
-
-You need someone on your team that understands and appreciates the value of well-maintained documentation. That is where I come in. Hire me. Hire Dale.
-
 ## **ABOUT ME**
 ---
 A more detailed look at my previous work experience and what I bring to the table.
@@ -47,9 +36,17 @@ A more detailed look at my previous work experience and what I bring to the tabl
 - [**Work Responsibilities**](/day-to-day)  
   &#x20; See the tasks I perform during a standard workday.
 
-## **HIRE ME**
----
-Interested in working together? Feel free to reach out for professional inquiries, career opportunities, or questions about my work.
-
 - [**LinkedIn Profile**](https://www.linkedin.com/in/dalealbertgaddi/)  
-  &#x20; My professional profile, including work experience, qualifications, and career background.
+  &#x20; Interested in working together? Feel free to reach out for professional inquiries, career opportunities, or questions about my work.
+
+
+## **ABOUT MY WORK**
+---
+
+The need to understand is **universal**.
+
+Without direct assistance, help files and other support documents become the next best resource for understanding a product's functions and features, as well as finding solutions to problems encountered. Because of this, it is crucial to keep them comprehensive, up to date, and easy to follow for both new and experienced users.
+
+I have profound respect for the role end‑user documentation plays in product support. They empower users to resolve issues independently, without needing to contact IT or customer support. Effective documentation saves time and resources — for both the customer and the company itself.
+
+You need someone on your team that understands and appreciates the value of well-maintained documentation. That is where I come in. Hire me. Hire Dale.  
