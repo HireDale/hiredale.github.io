@@ -4,7 +4,7 @@ description: ""
 theme: default
 ---
 
-## **WORK SAMPLES**
+## **WORK PORTFOLIO**
 ---
 A collection of sample documents and technical references showcasing my approach to technical writing, content organization, and end-user support.
 
