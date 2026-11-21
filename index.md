@@ -15,10 +15,10 @@ A collection of sample documents and technical references showcasing my approach
 &#x20; View a centralized knowledge base of reference guides, window definitions, and step-by-step tutorials to help users navigate and operate a sample application.
 
 - [**Internal Release Notes**](https://hiredale.github.io/daleydose/release-note-internal-1.5)  
-&#x20; Documents updates, enhancements, and fixes for internal stakeholders and development teams, including references to corresponding development tasks.
+&#x20; View release notes intended for internal stakeholders, development teams, and company management.
 
 - [**Customer Release Notes**](https://hiredale.github.io/daleydose/release-note-customer-1.5)  
-&#x20; Communicates user-facing updates, highlighting new features, improvements, changes, and bug fixes in an accessible format.
+&#x20; View release notes intended for end-users and power users.
 
 - [**Version History**](https://hiredale.github.io/daleydose/release-note-version-history)  
 &#x20; View a chronological archive of previous software releases, providing a reference for tracking version changes over time.
