@@ -30,7 +30,7 @@ A more detailed look at my previous work experience and what I bring to the tabl
 - [**LinkedIn Profile**](https://www.linkedin.com/in/dalealbertgaddi/)  
   &#x20; Reach out for professional inquiries, career opportunities, or questions about my work.
   
-- [**Why Hire Me**](/why-hire-me)  
+- [**Why Hire Dale**](/why-hire-me)  
   &#x20; Understand my method when creating end‑user documentation.
 
 - [**Work History**](/work-history)  
