@@ -6,22 +6,22 @@ theme: default
 
 ## **WORK PORTFOLIO**
 ---
-Browse sample documents and technical references showcasing my approach to technical writing, content organization, and end-user support.
+Browse sample documents and technical references presenting my approach to technical writing, content organization, and end-user support.
 
 - [**Product Overview**](https://hiredale.github.io/daleydose/)  
-&#x20; View an introduction to a sample application's purpose, core features, navigation, and available resources through a centralized landing page.
+&#x20; View an introduction to a sample application's purpose, core features, navigation, and available resources.
 
 - [**Help Files**](https://hiredale.github.io/daleydose/help-files)  
-&#x20; View a centralized knowledge base of reference guides, window definitions, and step-by-step tutorials to help users navigate and operate a sample application.
+&#x20; View a centralized knowledge base of reference guides, window definitions, and step-by-step tutorials.
 
 - [**Internal Release Notes**](https://hiredale.github.io/daleydose/release-note-internal-1.5)  
-&#x20; View release notes intended for internal stakeholders, development teams, and company management.
+&#x20; View sample release notes intended for internal stakeholders, development teams, and company management.
 
 - [**Customer Release Notes**](https://hiredale.github.io/daleydose/release-note-customer-1.5)  
-&#x20; View release notes intended for end-users and power users.
+&#x20; View sample application updates intended for end-users and power users.
 
 - [**Version History**](https://hiredale.github.io/daleydose/release-note-version-history)  
-&#x20; View a chronological archive of previous software releases, providing a reference for tracking version changes over time.
+&#x20; View a sample chronological archive of previous software releases.
 
 ## **ABOUT ME**
 ---
