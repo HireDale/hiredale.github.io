@@ -25,7 +25,7 @@ Browse sample documents and technical references presenting my approach to techn
 
 ## **ABOUT ME**
 ---
-A more detailed look at my previous work experience and what I bring to the table.
+A more detailed look at my previous work experience and what I can bring to the team.
 
 - [**LinkedIn Profile**](https://www.linkedin.com/in/dalealbertgaddi/)  
   &#x20; Reach out for professional inquiries, career opportunities, or questions about my work.
