@@ -18,7 +18,7 @@ Browse sample documents and technical references presenting my approach to techn
 &#x20; View release notes intended for internal stakeholders, development teams, and company management.
 
 - [**Customer Release Notes**](https://hiredale.github.io/daleydose/release-note-customer-1.5)  
-&#x20; View application updates intended for end-users and power users.
+&#x20; View updates intended for end-users.
 
 - [**Version History**](https://hiredale.github.io/daleydose/release-note-version-history)  
 &#x20; View a chronological archive of previous software releases.
