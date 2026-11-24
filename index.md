@@ -35,10 +35,12 @@ A more detailed look at my previous work experience and what I can bring to the 
 - [**Why Hire Dale**](/why-hire-me)  
   &#x20; Understand my method when creating end‑user documentation.
 
+- [**Work History**](/work-history)  
+  &#x20; Read about my work history and specialization.
 
-## **ABOUT MY WORK**
----
-
+- [**Work Responsibilities**](/day-to-day)  
+  &#x20; See the tasks I perform during a standard workday.
+  
 The need to understand is **universal**.
 
 Without direct assistance, help files and other support documents become the next best resource for understanding a product's functions and features, as well as finding solutions to problems encountered. Because of this, it is crucial to keep them comprehensive, up to date, and easy to follow for both new and experienced users.
@@ -47,8 +49,4 @@ I have profound respect for the role end‑user documentation plays in product s
 
 You need someone on your team that understands and appreciates the value of well-maintained documentation. That is where I come in. 
 
-- [**Work History**](/work-history)  
-  &#x20; Read about my work history and specialization.
 
-- [**Work Responsibilities**](/day-to-day)  
-  &#x20; See the tasks I perform during a standard workday.
