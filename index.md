@@ -41,4 +41,5 @@ A more detailed look at my previous work experience and what I can bring to the 
 - [**Work Responsibilities**](/day-to-day)  
   &#x20; See the tasks I perform during a standard workday.
 
+![HireDale Footer Banner](/assets/images/hiredale-footer-banner.png)  
 
