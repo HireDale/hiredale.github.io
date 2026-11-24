@@ -43,3 +43,4 @@ A more detailed look at my previous work experience and what I can bring to the 
 
 <!-- ![HireDale Footer Banner](/assets/images/hiredale-footer-banner.png) -->  
 
+<div style="margin-bottom: 40px;"></div>
