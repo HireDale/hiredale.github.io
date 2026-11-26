@@ -14,6 +14,9 @@ Browse sample documents and technical references presenting my approach to techn
 - [**Help Files**](https://hiredale.github.io/daleydose/help-files)  
 &#x20; View a centralized knowledge base of reference guides, window definitions, and step-by-step tutorials.
 
+- [**Quick Reference Guide**](https://hiredale.github.io/daleydose/prescription-create-new)  
+&#x20; View step-by-step instructions for completing tasks within the application.
+
 - [**Internal Release Notes**](https://hiredale.github.io/daleydose/release-note-internal-1.5)  
 &#x20; View release notes intended for internal stakeholders, development teams, and company management.
 
