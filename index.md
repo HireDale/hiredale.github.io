@@ -25,7 +25,7 @@ Browse sample documents and technical references presenting my approach to techn
 &#x20; View updates intended for end-users.
 -->
 
-- [**Version History**](https://hiredale.github.io/daleydose/release-note-version-history)  
+- [**Update History**](https://hiredale.github.io/daleydose/release-note-version-history)  
 &#x20; View a chronological archive of previous software releases.
 
 ## **ABOUT ME**
