@@ -37,10 +37,10 @@ A more detailed look at my previous work experience and what I can bring to the 
   
 - [**Why Hire Dale**](/why-hire-me)  
   &#x20; Understand my method when creating end‑user documentation.
-
+<!--
 - [**Work History**](/work-history)  
   &#x20; Read about my work history and specialization.
-
+-->
 - [**Work Responsibilities**](/day-to-day)  
   &#x20; See the tasks I perform during a standard workday.
 
